@@ -35,6 +35,7 @@ There are two purposes, or rationales, for copyright:
 Copyright systems in many countries draw on both rationales! 
 </details>
 <br/>
+
 <details>
 
 ## <summary>What can and can't be copyrighted?summary>
@@ -53,6 +54,7 @@ It would be impossible to create an exhaustive list of what can and can't be pro
 To read more about what can and can't be protected in Canada, check out the Canadian Intellectual Property Office's [Guide to Copyright ]([[https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/guide-copyright]).
 </details>
 <br/>
+
 <details>
   
 ## <summary>What about trademarks and patents? Are those the samee?<summary>
@@ -64,6 +66,7 @@ To learn more about **patents** in Canada, visit the Canadian Intellectual Prope
 
 </details>
 <br/>
+
 <details>
   
 ## <summary>How do I know what type of protection covers my intellectual property?<summary>
@@ -79,6 +82,7 @@ Unlike other types of intellectual property protection, copyright protection is 
 
 </details>
 <br/>
+
 <details>
   
 ## <summary>What if I don't want copyright for my work? What if I want to share it?<summary>
@@ -87,4 +91,5 @@ Unlike other types of intellectual property protection, copyright protection is 
 
 </details>
 <br/>
+
 ### References
