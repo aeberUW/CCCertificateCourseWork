@@ -32,6 +32,7 @@ Copyright systems in many countries draw on both rationales!
 What can and can't be copyrighted varies slightly from country to country. In general, literary and artistic works are copyrightable. In Canada, the Copyright Act states that "every original literary, dramatic, musical and artistic work" so long as it meets the conditions. 
 
 It would be impossible to create an exhaustive list of what can and can't be protected by copyright, but here is a list to give you some examples of what is and isn't protected in Canada.
+
 | **Can**                                                                 | **Cant** |
 |-------------------------------------------------------------------------|----------|
 | Literary works (e.g., books and poems)                                  | Facts    |
@@ -43,7 +44,7 @@ It would be impossible to create an exhaustive list of what can and can't be pro
 To read more about what can and can't be protected in Canada, check out the Canadian Intellectual Property Office's [Guide to Copyright](https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/guide-copyright).
 
   
-## What about trademarks and patents? Are those the samee?
+## What about trademarks and patents? Are those the same?
 
 Copyright is actually just one of many types of copyright protections available in Canada! Trademarks and patents are other types of protections for your intellectual propertly. In Canada, a **trademark** is a sign that is used to distinguish goods and services from those from other similar goods and services. Trademarks are a way to protect the public from being confused about the source of goods and services. If you've invented something, you might also patent it. In Canada, a **patent** is a legal right that prevents anyone else from making, using , and/or selling your patented invention. To qualify for patent protection in Canada, your invention must be new, useful, and non-obvious. 
 
@@ -60,7 +61,7 @@ Unlike other types of intellectual property protection, copyright protection is 
 
 ## What if I don't want copyright for my work? What if I want to share it?
 
-Unlike other types of intellectual property protection, copyright protection is automatic! In Canada, copyright is automatic as soon as a creative work is in a fixed material form (i.e., as soon as it's written down or recorded somewhere).
+If you don't want to keep your copyright protection and want to share it, you can enter your work into the public domain! 
 
 ---
 
