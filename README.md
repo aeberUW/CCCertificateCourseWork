@@ -18,7 +18,7 @@ A quick search for these questions often brings up lots of legal jargon that doe
 
 <details>
 
-## <summary>What is copyright?</summary>
+<summary>What is copyright?</summary>
 
 At its core, copyright is the legal term for author's rights. Copyright describes the rights that authors and creators have over their literary and creative works.
 
