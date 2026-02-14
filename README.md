@@ -25,7 +25,8 @@ At its core, copyright is the legal term for author's rights. Copyright describe
 </details>
 
 <details>
-##<summary>What is the purpose of copyright?</summary>
+  
+## <summary>What is the purpose of copyright?</summary>
 
 There are two purposes, or rationales, for copyright: 
 
@@ -37,7 +38,7 @@ Copyright systems in many countries draw on both rationales!
 
 <details>
 
-## <summary>What can and can't be copyrighted?summary>
+## <summary>What can and can't be copyrighted?</summary>
 
 What can and can't be copyrighted varies slightly from country to country. In general, literary and artistic works are copyrightable. In Canada, the Copyright Act states that "every original literary, dramatic, musical and artistic work" so long as it meets the conditions. 
 
@@ -55,7 +56,7 @@ To read more about what can and can't be protected in Canada, check out the Cana
 
 <details>
   
-## <summary>What about trademarks and patents? Are those the samee?<summary>
+## <summary>What about trademarks and patents? Are those the samee?</summary>
 
 Copyright is actually just one of many types of copyright protections available in Canada! Trademarks and patents are other types of protections for your intellectual propertly. In Canada, a **trademark** is a sign that is used to distinguish goods and services from those from other similar goods and services. Trademarks are a way to protect the public from being confused about the source of goods and services. If you've invented something, you might also patent it. In Canada, a **patent** is a legal right that prevents anyone else from making, using , and/or selling your patented invention. To qualify for patent protection in Canada, your invention must be new, useful, and non-obvious. 
 
@@ -66,14 +67,14 @@ To learn more about **patents** in Canada, visit the Canadian Intellectual Prope
 
 <details>
   
-## <summary>How do I know what type of protection covers my intellectual property?<summary>
+## <summary>How do I know what type of protection covers my intellectual property?</summary>
 
 One of the best ways to know what types of protection(s) your intellectual property can be covered by in Canada is to check out the Canadian Intellectual Property Office's [Intellectual Property in Canada Comparison Chart]([https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/intellectual-property-canada]). This chart covers all the types of intellectual property protections in Canada and will help you identify what your creative work can be protected by!
 </details>
 
 <details>
   
-## <summary>How do I get copyright protection for my work?<summary>
+## <summary>How do I get copyright protection for my work?</summary>
 
 Unlike other types of intellectual property protection, copyright protection is automatic! In Canada, copyright is automatic as soon as a creative work is in a fixed material form (i.e., as soon as it's written down or recorded somewhere).
 
@@ -81,7 +82,7 @@ Unlike other types of intellectual property protection, copyright protection is 
 
 <details>
   
-## <summary>What if I don't want copyright for my work? What if I want to share it?<summary>
+## <summary>What if I don't want copyright for my work? What if I want to share it?</summary>
 
 Unlike other types of intellectual property protection, copyright protection is automatic! In Canada, copyright is automatic as soon as a creative work is in a fixed material form (i.e., as soon as it's written down or recorded somewhere).
 
