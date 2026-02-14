@@ -12,11 +12,11 @@ Copyright and copyright laws can be confusing. You might find yourself asking:
 
 A quick search for these questions often brings up lots of legal jargon that doesn't make a lot of sense and makes copyright even more confusing. This FAQ is designed to cut through the jargon and get to the big questions you have about copyright in a way that makes sense! Below you will find a beginner's digest to all your questions about copyright! No question is too big or too small. 
 
-***Please note this FAQ is now legal advice and should not be taken as such. Please visit the [Canadian Intellectual Property Office's](https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en) website for more information about copyright in Canada.***
+***Please note this FAQ is not legal advice and should not be taken as such. Please visit the [Canadian Intellectual Property Office's](https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en) website for more information about copyright in Canada.***
 ---
 **Click on the text in each question to see the answers to each.**
 
-<details>
+## <details>
 
 <summary>What is copyright?</summary>
 
@@ -87,5 +87,7 @@ Unlike other types of intellectual property protection, copyright protection is 
 Unlike other types of intellectual property protection, copyright protection is automatic! In Canada, copyright is automatic as soon as a creative work is in a fixed material form (i.e., as soon as it's written down or recorded somewhere).
 
 </details><br>
+
 ---
+
 ### References
