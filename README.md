@@ -23,7 +23,7 @@ A quick search for these questions often brings up lots of legal jargon that doe
 At its core, copyright is the legal term for author's rights. Copyright describes the rights that authors and creators have over their literary and creative works.
 
 </details>
-<br/>
+
 <details>
 ##<summary>What is the purpose of copyright?</summary>
 
@@ -34,7 +34,6 @@ There are two purposes, or rationales, for copyright:
 
 Copyright systems in many countries draw on both rationales! 
 </details>
-<br/>
 
 <details>
 
@@ -53,7 +52,6 @@ It would be impossible to create an exhaustive list of what can and can't be pro
 
 To read more about what can and can't be protected in Canada, check out the Canadian Intellectual Property Office's [Guide to Copyright ]([[https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/guide-copyright]).
 </details>
-<br/>
 
 <details>
   
@@ -65,7 +63,6 @@ To learn more about **trademarks** in Canada, check out the Canadian Intellectua
 To learn more about **patents** in Canada, visit the Canadian Intellectual Property Office's [Learn Patents]([https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/learn-patents-canadian-intellectual-property-office]) page. 
 
 </details>
-<br/>
 
 <details>
   
@@ -73,7 +70,7 @@ To learn more about **patents** in Canada, visit the Canadian Intellectual Prope
 
 One of the best ways to know what types of protection(s) your intellectual property can be covered by in Canada is to check out the Canadian Intellectual Property Office's [Intellectual Property in Canada Comparison Chart]([https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/intellectual-property-canada]). This chart covers all the types of intellectual property protections in Canada and will help you identify what your creative work can be protected by!
 </details>
-<br/>
+
 <details>
   
 ## <summary>How do I get copyright protection for my work?<summary>
@@ -81,7 +78,6 @@ One of the best ways to know what types of protection(s) your intellectual prope
 Unlike other types of intellectual property protection, copyright protection is automatic! In Canada, copyright is automatic as soon as a creative work is in a fixed material form (i.e., as soon as it's written down or recorded somewhere).
 
 </details>
-<br/>
 
 <details>
   
@@ -90,6 +86,5 @@ Unlike other types of intellectual property protection, copyright protection is 
 Unlike other types of intellectual property protection, copyright protection is automatic! In Canada, copyright is automatic as soon as a creative work is in a fixed material form (i.e., as soon as it's written down or recorded somewhere).
 
 </details>
-<br/>
 
 ### References
