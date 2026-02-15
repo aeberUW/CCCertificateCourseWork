@@ -22,18 +22,18 @@ At its core, copyright is the legal term for author's rights. Copyright describe
 
 There are two purposes, or rationales, for copyright: 
 
-- To incentivize and motivate authors and creators to continue creating by social gains that will result from those works (including commercial and monetary gains). This is called the **utilitarian** rationale.
-- To recognize, and protect, the connection authors and creators have with their works. This is called the **author's rights** rationale and is based on a the idea of moral rights. These moral rights ensure authors and creators are credited for their work which preserves the work's integrity.
+- To incentivize and motivate authors and creators to continue creating by social gains that will result from those works (including commercial and monetary gains). This is called the **`utilitarian`** rationale.
+- To recognize, and protect, the connection authors and creators have with their works. This is called the **`author's rights`** rationale and is based on a the idea of moral rights. These moral rights ensure authors and creators are credited for their work which preserves the work's integrity.
 
 Copyright systems in many countries draw on both rationales! 
 
 ## What can and can't be copyrighted?
 
-What can and can't be copyrighted varies slightly from country to country. In general, literary and artistic works are copyrightable. In Canada, the Copyright Act states that "every original literary, dramatic, musical and artistic work" so long as it meets the conditions. 
+What can and can't be copyrighted varies slightly from country to country. In general, literary and artistic works are copyrightable. In Canada, the _Copyright Act_ states that "every original literary, dramatic, musical and artistic work" so long as it meets the conditions. 
 
 It would be impossible to create an exhaustive list of what can and can't be protected by copyright, but here is a list to give you some examples of what is and isn't protected in Canada.
 
-| **Can**                                                                 | **Cant** |
+| **Can** be copyright protected                                          | **Cant** be copyright protected |
 |-------------------------------------------------------------------------|----------|
 | Literary works (e.g., books and poems)                                  | Facts    |
 | Databases                                                               | Themes   |
@@ -45,13 +45,13 @@ To read more about what can and can't be protected in Canada, check out the Cana
 
 ## If my work is copyrighted does that mean no one else can use it?
 
-While copyright protections in Canada gives creators the sole right to produce/reproduce, perform, and publish works, there are some important exemptions. Without exemptions, many activities such as scholarly reseearch, teaching, and reviewing materials would be difficult. To protect both the author's and public's best interests, certain exemptions are written into the Canadian Copyright Act and called **fair dealing**. In the Copyright Act, fair dealing provides copyright exemptions for activities such as research, private study, education, parody, and satire. Other uses of copyrighted works may also be permitted if they meet the certain requirements. 
+While copyright protections in Canada gives creators the sole right to produce/reproduce, perform, and publish works, there are some important exemptions. Without exemptions, many activities such as scholarly reseearch, teaching, and reviewing materials would be difficult. To protect both the author's and public's best interests, certain exemptions are written into the Canadian _Copyright Act_ and called **`fair dealing`**. In the _Copyright Act_, fair dealing provides copyright exemptions for activities such as research, private study, education, parody, and satire. Other uses of copyrighted works may also be permitted if they meet the certain requirements. 
 
 To find out more about determining what uses are considered fair under the Fair Dealing exemptions, check out Western University's [Fair Dealing Analysis](https://copyright.uwo.ca/fair_dealing_analysis/index.html).
   
 ## What about trademarks and patents? Are those the same?
 
-Copyright is actually just one of many types of copyright protections available in Canada! Trademarks and patents are other types of protections for your intellectual propertly. In Canada, a **`trademark`** is a sign that is used to distinguish goods and services from those from other similar goods and services. Trademarks are a way to protect the public from being confused about the source of goods and services. If you've invented something, you might also patent it. In Canada, a `**patent**` is a legal right that prevents anyone else from making, using , and/or selling your patented invention. To qualify for patent protection in Canada, your invention must be new, useful, and non-obvious. 
+Copyright is actually just one of many types of copyright protections available in Canada! Trademarks and patents are other types of protections for your intellectual propertly. In Canada, a **`trademark`** is a sign that is used to distinguish goods and services from those from other similar goods and services. Trademarks are a way to protect the public from being confused about the source of goods and services. If you've invented something, you might also patent it. In Canada, a **1patent`** is a legal right that prevents anyone else from making, using , and/or selling your patented invention. To qualify for patent protection in Canada, your invention must be new, useful, and non-obvious. 
 
 To learn more about **trademarks** in Canada, check out the Canadian Intellectual Property Office's [Trademarks Guide](https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/trademarks/trademarks-guide).
 To learn more about **patents** in Canada, visit the Canadian Intellectual Property Office's [Learn Patents](https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/learn-patents-canadian-intellectual-property-office) page. 
