@@ -96,4 +96,8 @@ If you want to dedicate your work to the public domain, you can use the [CC0](ht
 ## License 
 ["Creative Commons Certificate Learning Space"](https://aeberuw.github.io/CCCertificateCourseWork/) by [Anneliese Eber](https://orcid.org/0009-0000-8922-8877) is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0).
 
+---
 
+_For any questions about the site content please contact Anneliese Eber <aeber@uwaterloo.ca>_ 
+
+_Website theme: [Hacker](https://github.com/pages-themes/hacker) CC0_
