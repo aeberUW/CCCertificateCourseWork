@@ -39,10 +39,15 @@ It would be impossible to create an exhaustive list of what can and can't be pro
 | Databases                                                               | Themes   |
 | Computer programs/software                                              | Ideas    |
 | Dramatic works (e.g., films and plays)                                  | Concepts |
-| Musical works (e.g., sheet music and compositions with or without words |          |
+| Musical works (e.g., sheet music and compositions with or without words) |          |
 
 To read more about what can and can't be protected in Canada, check out the Canadian Intellectual Property Office's [Guide to Copyright](https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/guide-copyright).
 
+## If my work is copyrighted does that mean no one else can use it?
+
+While copyright protections in Canada gives creators the sole right to produce/reproduce, perform, and publish works, there are some important exemptions. Without exemptions, many activities such as scholarly reseearch, teaching, and reviewing materials would be difficult. To protect both the author's and public's best interests, certain exemptions are written into the Canadian Copyright Act and called **fair dealing**. In the Copyright Act, fair dealing provides copyright exemptions for activities such as research, private study, education, parody, and satire. Other uses of copyrighted works may also be permitted if they meet the certain requirements. 
+
+To find out more about determining what uses are considered fair under the Fair Dealing exemptions, check out Western University's [Fair Dealing Analysis](https://copyright.uwo.ca/fair_dealing_analysis/index.html).
   
 ## What about trademarks and patents? Are those the same?
 
@@ -59,10 +64,31 @@ One of the best ways to know what types of protection(s) your intellectual prope
 
 Unlike other types of intellectual property protection, copyright protection is automatic! In Canada, copyright is automatic as soon as a creative work is in a fixed material form (i.e., as soon as it's written down or recorded somewhere).
 
-## What if I don't want copyright for my work? What if I want to share it?
+## What if I don't want copyright for my work? What if I want to share it openly?
 
-If you don't want to keep your copyright protection and want to share it, you can enter your work into the public domain! 
+If you don't want to keep your copyright protection and want to share it, you can dedicate your work into the public domain! The public domain is an essential to preserving history, inspiring future generations of creators, and futhering human knowledge. Works can become public domain in different ways: 
+
+- The copyright protections expire
+- The work was never entitled to copyright protections (see question about what can't be copyright protected!)
+- The copyright holder doesn't comply with formalities to maintain or acquire copyright protection for their work
+- The creator dedicates their work to the public domain (note: this has to be done before the copyright has expired)
+
+If you want to dedicate your work to the public domain, you can use the [CC0](https://creativecommons.org/public-domain/cc0/) public domain designation from Creative Commons. To learn more about the public domain and what that means for you as a creator, check out the [Creative Commons CC0 FAQ](https://wiki.creativecommons.org/wiki/CC0_FAQ#How_do_I_apply_CC0_to_my_work.3F)
 
 ---
 
 ### References
+- “2.1 Copyright Basics” ([https://creativecommons.org/course/cc-cert-edu/unit-2-copyright-law/2-1-copyright-basics/](url)) by Creative Commons. CC BY 4.0.
+- “2.2 Global Aspects of Copyright” ([https://creativecommons.org/course/cc-cert-edu/unit-2-copyright-law/2-2-global-aspects-of-copyright/](url)) by Creative Commons. CC BY 4.0.
+- “The Public Domain” ([https://creativecommons.org/course/cc-cert-edu/unit-2-copyright-law/](url)) by Creative Commons. CC BY 4.0.
+- “Exceptions and Limitations to Copyright” ([https://creativecommons.org/course/cc-cert-edu/unit-2-copyright-law/2-4-exceptions-and-limitations-to-copyright/](url)) by Creative Commons. CC BY 4.0.
+- "CC0 FAQ" ([https://wiki.creativecommons.org/wiki/CC0_FAQ#How_do_I_apply_CC0_to_my_work.3F](url)) by Creative Commons. CC BY 4.0.
+- "Fair Dealing Exception Guidelines" ([https://copyright.uwo.ca/guidelines_requirements/guidelines/fair_dealing_exception_guidelines.html](url)) by Western University. CC BY-SA 4.0.
+- "Copyright Fair Dealing Analysis" ([https://copyright.uwo.ca/fair_dealing_analysis/index.html](url)) by Western University. CC BY-SA 4.0.
+- "Trademarks Guide" ([https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/trademarks/trademarks-guide](url)) by the Government of Canada.
+- "A Guide to Copyright" ([https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/guide-copyright](url)) by the Government of Canada.
+- "Learn patents – Canadian Intellectual Property Office" ([https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/learn-patents-canadian-intellectual-property-office](url)) by the Government of Canada.
+- Copyright Act, RSC 1985, c C-42. ([https://laws-lois.justice.gc.ca/eng/acts/C-42/page-1.html#docCont](url)) by the Government of Canada. 
+
+## License 
+["Creative Commons Certificate Learning Space"](https://aeberuw.github.io/CCCertificateCourseWork/) by [Anneliese Eber](https://orcid.org/0009-0000-8922-8877) is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0).
