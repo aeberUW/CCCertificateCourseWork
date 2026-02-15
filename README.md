@@ -66,7 +66,7 @@ Unlike other types of intellectual property protection, copyright protection is 
 
 ## What if I don't want copyright for my work? What if I want to share it openly?
 
-If you don't want to keep your copyright protection and want to share it, you can dedicate your work into the public domain! The public domain is an essential to preserving history, inspiring future generations of creators, and furthering human knowledge. Works can become public domain in different ways: 
+If you don't want to keep your copyright protection and want to share it, you can dedicate your work into the public domain! The public domain is essential to preserving history, inspiring future generations of creators, and furthering human knowledge. Works can become public domain in different ways: 
 
 - The copyright protections expire
 - The work was never entitled to copyright protections (see question about what can't be protected by copyright!)
