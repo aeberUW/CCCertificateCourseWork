@@ -78,6 +78,10 @@ If you want to dedicate your work to the public domain, you can use the [CC0](ht
 ---
 
 ### References
+<details>
+
+<summary></summary>
+
 - “2.1 Copyright Basics” ([https://creativecommons.org/course/cc-cert-edu/unit-2-copyright-law/2-1-copyright-basics/](url)) by Creative Commons. CC BY 4.0.
 - “2.2 Global Aspects of Copyright” ([https://creativecommons.org/course/cc-cert-edu/unit-2-copyright-law/2-2-global-aspects-of-copyright/](url)) by Creative Commons. CC BY 4.0.
 - “The Public Domain” ([https://creativecommons.org/course/cc-cert-edu/unit-2-copyright-law/](url)) by Creative Commons. CC BY 4.0.
@@ -90,5 +94,6 @@ If you want to dedicate your work to the public domain, you can use the [CC0](ht
 - "Learn patents – Canadian Intellectual Property Office" ([https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/learn-patents-canadian-intellectual-property-office](url)) by the Government of Canada.
 - Copyright Act, RSC 1985, c C-42. ([https://laws-lois.justice.gc.ca/eng/acts/C-42/page-1.html#docCont](url)) by the Government of Canada. 
 
+</details>
 ## License 
 ["Creative Commons Certificate Learning Space"](https://aeberuw.github.io/CCCertificateCourseWork/) by [Anneliese Eber](https://orcid.org/0009-0000-8922-8877) is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0).
