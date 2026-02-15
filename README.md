@@ -33,7 +33,7 @@ What can and can't be copyrighted varies slightly from country to country. In ge
 
 It would be impossible to create an exhaustive list of what can and can't be protected by copyright, but here is a list to give you some examples of what is and isn't protected in Canada.
 
-| **Can** be copyright protected                                          | **Cant** be copyright protected |
+|**Can** be copyright protected                                          |**Cant** be copyright protected|
 |-------------------------------------------------------------------------|----------|
 | Literary works (e.g., books and poems)                                  | Facts    |
 | Databases                                                               | Themes   |
@@ -51,7 +51,7 @@ To find out more about determining what uses are considered fair under the Fair 
   
 ## What about trademarks and patents? Are those the same?
 
-Copyright is actually just one of many types of copyright protections available in Canada! Trademarks and patents are other types of protections for your intellectual propertly. In Canada, a **`trademark`** is a sign that is used to distinguish goods and services from those from other similar goods and services. Trademarks are a way to protect the public from being confused about the source of goods and services. If you've invented something, you might also patent it. In Canada, a **1patent`** is a legal right that prevents anyone else from making, using , and/or selling your patented invention. To qualify for patent protection in Canada, your invention must be new, useful, and non-obvious. 
+Copyright is actually just one of many types of copyright protections available in Canada! Trademarks and patents are other types of protections for your intellectual propertly. In Canada, a **`trademark`** is a sign that is used to distinguish goods and services from those from other similar goods and services. Trademarks are a way to protect the public from being confused about the source of goods and services. If you've invented something, you might also patent it. In Canada, a **`patent`** is a legal right that prevents anyone else from making, using , and/or selling your patented invention. To qualify for patent protection in Canada, your invention must be new, useful, and non-obvious. 
 
 To learn more about **trademarks** in Canada, check out the Canadian Intellectual Property Office's [Trademarks Guide](https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/trademarks/trademarks-guide).
 To learn more about **patents** in Canada, visit the Canadian Intellectual Property Office's [Learn Patents](https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/learn-patents-canadian-intellectual-property-office) page. 
