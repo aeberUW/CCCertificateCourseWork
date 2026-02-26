@@ -10,44 +10,55 @@ As the world moves towards building a culture of openness through initiatives li
 ## Types of Creative Commons Licenses
 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.xlarge.png" width="200" height="200">
 
-![Creative Commons icon](https://mirrors.creativecommons.org/presskit/icons/cc.xlarge.png)
+This is the Creative Commons icon that is included in all licenses. 
+
 It's important to choose the correct license when thinking about applying a CC license to your work! Creative Commons licenses use a combination of **four** elements to create **six** licenses. 
 
 ### Elements
 <img src="https://mirrors.creativecommons.org/presskit/icons/by.xlarge.png" width="200" height="200"> 
+
 BY: credit must be given to the creator 
 
 <img src="https://mirrors.creativecommons.org/presskit/icons/nc.xlarge.png" width="200" height="200"> 
+
 NC: Only noncommercial uses of the work are permitted.
 
 <img src="https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png" width="200" height="200"> 
+
 SA: Adaptations must be shared under the same terms.
 
 <img src="https://mirrors.creativecommons.org/presskit/icons/nd.xlarge.png" width="200" height="200"> 
+
 ND: No derivatives or adaptations of the work are permitted.
 
 #### Licenses
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="200" height="100">
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="285" height="100">
+
 BY: credit must be given to the creator
 
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width="200" height="100">
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width="285" height="100">
+
  BY: credit must be given to the creator
  SA: Adaptations must be shared under the same terms
  
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" width="200" height="100">
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" width="285" height="100">
+
  BY: credit must be given to the creator
  NC: Only noncommercial uses of the work are permitted
  
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="200" height="100">
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="285" height="100">
+
  BY: credit must be given to the creator
  NC: Only noncommercial uses of the work are permitted
  SA: Adaptations must be shared under the same terms
  
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nd.png" width="200" height="100">
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nd.png" width="285" height="100">
+
  BY: credit must be given to the creator
  ND: No derivatives or adaptations of the work are permitted
 
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png" width="200" height="100">
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png" width="285" height="100">
+
  BY: credit must be given to the creator
  NC: Only noncommercial uses of the work are permitted
  ND: No derivatives or adaptations of the work are permitted
