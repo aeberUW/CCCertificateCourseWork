@@ -8,6 +8,8 @@ permalink: /license-types
 As the world moves towards building a culture of openness through initiatives like open science, open access, open data, and open educational resources, contributing towards creating a culture of reciprocity is more important than ever before. One way to contribute to building this culture and the open movement is by sharing materials and resources you create. Did you know that you own the copyright for materials you create (see [Copyright FAQ](https://aeberuw.github.io/CCCertificateCourseWork/) for more information)? At the University of Waterloo, everyone [owns their own intellectual property (with some exceptions)](https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policies/policy-73-intellectual-property-rights) which gives creators the ability to apply Creative Commons licenses to their creative work as appropriate. 
 
 ## Types of Creative Commons Licenses
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.xlarge.png" width="200" height="100">
+
 ![Creative Commons icon](https://mirrors.creativecommons.org/presskit/icons/cc.xlarge.png)
 It's important to choose the correct license when thinking about applying a CC license to your work! Creative Commons licenses use a combination of **four** elements to create **six** licenses. 
 
