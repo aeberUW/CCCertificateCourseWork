@@ -8,18 +8,30 @@ permalink: /license-types
 As the world moves towards building a culture of openness through initiatives like open science, open access, open data, and open educational resources, contributing towards creating a culture of reciprocity is more important than ever before. One way to contribute to building this culture and the open movement is by sharing materials and resources you create. Did you know that you own the copyright for materials you create (see [Copyright FAQ](https://aeberuw.github.io/CCCertificateCourseWork/) for more information)? At the University of Waterloo, everyone [owns their own intellectual property (with some exceptions)](https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policies/policy-73-intellectual-property-rights) which gives creators the ability to apply Creative Commons licenses to their creative work as appropriate. 
 
 ## Types of Creative Commons Licenses
-<img src="https://mirrors.creativecommons.org/presskit/icons/cc.xlarge.png" width="200" height="100">
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.xlarge.png" width="200" height="200">
 
 ![Creative Commons icon](https://mirrors.creativecommons.org/presskit/icons/cc.xlarge.png)
 It's important to choose the correct license when thinking about applying a CC license to your work! Creative Commons licenses use a combination of **four** elements to create **six** licenses. 
 
 ### Elements
+<img src="https://mirrors.creativecommons.org/presskit/icons/by.xlarge.png" width="200" height="200"> BY: credit must be given to the creator 
+<img src="https://mirrors.creativecommons.org/presskit/icons/nc.xlarge.png" width="200" height="200"> NC: Only noncommercial uses of the work are permitted.
+<img src="https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png" width="200" height="200"> SA: Adaptations must be shared under the same terms.
+<img src="https://mirrors.creativecommons.org/presskit/icons/nd.xlarge.png" width="200" height="200"> ND: No derivatives or adaptations of the work are permitted.
+
 ![By attribution icon](https://mirrors.creativecommons.org/presskit/icons/by.xlarge.png)  BY: credit must be given to the creator 
 ![NonCommercial icon](https://mirrors.creativecommons.org/presskit/icons/nc.xlarge.png) NC: Only noncommercial uses of the work are permitted.
 ![ShareAlike icon](https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png) SA: Adaptations must be shared under the same terms.
 ![NoDerivatives icon](https://mirrors.creativecommons.org/presskit/icons/nd.xlarge.png) ND: No derivatives or adaptations of the work are permitted.
 
 #### Licenses
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="200" height="100">
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width="200" height="100">
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" width="200" height="100">
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="200" height="100">
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nd.png" width="200" height="100">
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png" width="200" height="100">
+
 ![CC BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)
 ![CC BY-SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
 ![CC BY-NC](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png)
