@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Choosing a Creative Commons License"
 permalink: /license-types
 ---
