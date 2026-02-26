@@ -3,6 +3,7 @@ layout: default
 title: "Choosing a Creative Commons License"
 permalink: /license-types
 ---
+# Choosing A Creative Commons License For Your Work
 
 ### References
 
