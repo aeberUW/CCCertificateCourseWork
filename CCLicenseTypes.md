@@ -15,6 +15,29 @@ This is the Creative Commons icon that is included in all licenses.
 It's important to choose the correct license when thinking about applying a CC license to your work! Creative Commons licenses use a combination of **four** elements to create **six** licenses. 
 
 ### Elements
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky">By Attribution (BY): <br>Credit must be given to the creator<br><br><img src="https://mirrors.creativecommons.org/presskit/icons/by.xlarge.png" alt="Image" width="200" height="200"></th>
+    <th class="tg-0pky">NonCommercial (NC): <br>Only noncommercial uses of the work are permitted<br><br><img src="https://mirrors.creativecommons.org/presskit/icons/nc.xlarge.png" alt="Image" width="200" height="200"></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Share Alike (SA): <br>Adaptations must be shared under the same terms<br><br><img src="https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png" alt="Image" width="200" height="200"></td>
+    <td class="tg-0pky">NoDerivatives (ND): <br>No derivatives or adaptations of the work are permitted<br><br><img src="https://mirrors.creativecommons.org/presskit/icons/nd.xlarge.png" alt="Image" width="200" height="200"></td>
+  </tr>
+</tbody>
+</table>
+
+
 <img src="https://mirrors.creativecommons.org/presskit/icons/by.xlarge.png" width="200" height="200"> 
 
 BY: credit must be given to the creator 
