@@ -43,23 +43,6 @@ It's important to choose the correct license when thinking about applying a CC l
   </tr>
 </tbody></table>
 
-
-<img src="https://mirrors.creativecommons.org/presskit/icons/by.xlarge.png" width="200" height="200"> 
-
-BY: credit must be given to the creator 
-
-<img src="https://mirrors.creativecommons.org/presskit/icons/nc.xlarge.png" width="200" height="200"> 
-
-NC: Only noncommercial uses of the work are permitted.
-
-<img src="https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png" width="200" height="200"> 
-
-SA: Adaptations must be shared under the same terms.
-
-<img src="https://mirrors.creativecommons.org/presskit/icons/nd.xlarge.png" width="200" height="200"> 
-
-ND: No derivatives or adaptations of the work are permitted.
-
 #### Licenses
 #### CC BY
 
