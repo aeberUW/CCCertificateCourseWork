@@ -45,14 +45,14 @@ BY: credit must be given to the creator
  BY: credit must be given to the creator
  SA: Adaptations must be shared under the same terms
 
- #### CC BY-NC
+#### CC BY-NC
  
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" width="285" height="100">
 
  BY: credit must be given to the creator
  NC: Only noncommercial uses of the work are permitted
 
- #### CC BY-NC-SA 
+#### CC BY-NC-SA 
  
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="285" height="100">
 
@@ -60,7 +60,7 @@ BY: credit must be given to the creator
  NC: Only noncommercial uses of the work are permitted
  SA: Adaptations must be shared under the same terms
 
- #### CC BY-ND
+#### CC BY-ND
  
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nd.png" width="285" height="100">
 
