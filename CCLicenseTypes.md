@@ -32,30 +32,42 @@ SA: Adaptations must be shared under the same terms.
 ND: No derivatives or adaptations of the work are permitted.
 
 #### Licenses
+#### CC BY
+
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="285" height="100">
 
 BY: credit must be given to the creator
+
+#### CC BY-SA
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width="285" height="100">
 
  BY: credit must be given to the creator
  SA: Adaptations must be shared under the same terms
+
+ #### CC BY-NC
  
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" width="285" height="100">
 
  BY: credit must be given to the creator
  NC: Only noncommercial uses of the work are permitted
+
+ #### CC BY-NC-SA 
  
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="285" height="100">
 
  BY: credit must be given to the creator
  NC: Only noncommercial uses of the work are permitted
  SA: Adaptations must be shared under the same terms
+
+ #### CC BY-ND
  
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nd.png" width="285" height="100">
 
  BY: credit must be given to the creator
  ND: No derivatives or adaptations of the work are permitted
+
+#### CC BY-NC-ND
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png" width="285" height="100">
 
@@ -63,7 +75,15 @@ BY: credit must be given to the creator
  NC: Only noncommercial uses of the work are permitted
  ND: No derivatives or adaptations of the work are permitted
 
+## How the Licenses Work
 
+Each CC license is made up of **three** layers: 
+1. Legal Code: The legal code makes up the lawyer-readable part of the license and includes the terms and conditions that are legally enforceable in court.
+2. Human Readable: The human-readable layer is known as the Commons Deed and contains a summary of the legal code that lays out the key license terms in a way non-lawyers can understand.
+3. Machine Readable: The machine-readable layer is what allows software, apps, and websites etc., to understand the code in a way that they can understand. This allows the various technologies to understand what licenses are applied to works.
+
+## Other Tools: The Public Domain
+- 
 #### Instructions
 the three layers of the CC licenses,
 the four license elementsLinks to an external site.
