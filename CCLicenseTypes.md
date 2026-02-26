@@ -7,6 +7,13 @@ permalink: /license-types
 
 As the world moves towards building a culture of openness through initiatives like open science, open access, open data, and open educational resources, contributing towards creating a culture of reciprocity is more important than ever before. One way to contribute to building this culture and the open movement is by sharing materials and resources you create. Did you know that you own the copyright for materials you create (see [Copyright FAQ](https://aeberuw.github.io/CCCertificateCourseWork/) for more information)? At the University of Waterloo, everyone [owns their own intellectual property (with some exceptions)](https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policies/policy-73-intellectual-property-rights) which gives creators the ability to apply Creative Commons licenses to their creative work as appropriate. 
 
+## How the Licenses Work
+
+Each CC license is made up of **three** layers: 
+1. Legal Code: The legal code makes up the lawyer-readable part of the license and includes the terms and conditions that are legally enforceable in court.
+2. Human Readable: The human-readable layer is known as the Commons Deed and contains a summary of the legal code that lays out the key license terms in a way non-lawyers can understand.
+3. Machine Readable: The machine-readable layer is what allows software, apps, and websites etc., to understand the code in a way that they can understand. This allows the various technologies to understand what licenses are applied to works.
+
 ## Types of Creative Commons Licenses
 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.xlarge.png" width="200" height="200">
 
@@ -26,16 +33,15 @@ It's important to choose the correct license when thinking about applying a CC l
 </style>
 <table class="tg"><thead>
   <tr>
-    <th class="tg-0pky">By Attribution (BY): <br>Credit must be given to the creator<br><br><img src="https://mirrors.creativecommons.org/presskit/icons/by.xlarge.png" alt="Image" width="200" height="200"></th>
-    <th class="tg-0pky">NonCommercial (NC): <br>Only noncommercial uses of the work are permitted<br><br><img src="https://mirrors.creativecommons.org/presskit/icons/nc.xlarge.png" alt="Image" width="200" height="200"></th>
+    <th class="tg-0pky"><span style="font-weight:bold">By Attribution (BY): </span><br>Credit must be given to the creator<br><br><img src="https://mirrors.creativecommons.org/presskit/icons/by.xlarge.png" alt="Image" width="200" height="200"></th>
+    <th class="tg-0pky"><span style="font-weight:bold">NonCommercial (NC): </span><br>Only noncommercial uses of the work are permitted<br><br><img src="https://mirrors.creativecommons.org/presskit/icons/nc.xlarge.png" alt="Image" width="200" height="200"></th>
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Share Alike (SA): <br>Adaptations must be shared under the same terms<br><br><img src="https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png" alt="Image" width="200" height="200"></td>
-    <td class="tg-0pky">NoDerivatives (ND): <br>No derivatives or adaptations of the work are permitted<br><br><img src="https://mirrors.creativecommons.org/presskit/icons/nd.xlarge.png" alt="Image" width="200" height="200"></td>
+    <td class="tg-0pky"><span style="font-weight:bold">Share Alike (SA): </span><br>Adaptations must be shared under the same terms<br><br><img src="https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png" alt="Image" width="200" height="200"></td>
+    <td class="tg-0pky"><span style="font-weight:bold">NoDerivatives (ND): </span><br>No derivatives or adaptations of the work are permitted<br><br><img src="https://mirrors.creativecommons.org/presskit/icons/nd.xlarge.png" alt="Image" width="200" height="200"></td>
   </tr>
-</tbody>
-</table>
+</tbody></table>
 
 
 <img src="https://mirrors.creativecommons.org/presskit/icons/by.xlarge.png" width="200" height="200"> 
@@ -98,12 +104,6 @@ BY: credit must be given to the creator
  NC: Only noncommercial uses of the work are permitted
  ND: No derivatives or adaptations of the work are permitted
 
-## How the Licenses Work
-
-Each CC license is made up of **three** layers: 
-1. Legal Code: The legal code makes up the lawyer-readable part of the license and includes the terms and conditions that are legally enforceable in court.
-2. Human Readable: The human-readable layer is known as the Commons Deed and contains a summary of the legal code that lays out the key license terms in a way non-lawyers can understand.
-3. Machine Readable: The machine-readable layer is what allows software, apps, and websites etc., to understand the code in a way that they can understand. This allows the various technologies to understand what licenses are applied to works.
 
 ## Other Tools: The Public Domain
 - 
