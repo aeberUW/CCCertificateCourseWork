@@ -72,16 +72,27 @@ It's important to choose the correct license when thinking about applying a CC l
 
 ## Other Tools: The Public Domain
 
-In addition to the CC licenses, Creative Commons also supports a copyright tool for creators who want to dedicate their work to the public domain and have "no rights reserved". This is the CC0 (pronounced CC Zero) public domain dedication tool. Though CC0 *does* use the same three-later design (legal code, human-readable (commons deed), machine-readable), it's important to note that this is **not** a CC license. The CC0 public domain dedication is another tool in your copyright protection toolbox outside of the 6 core licenses in the CC license suite. 
+In addition to the CC licenses, Creative Commons also supports two copyright tools for creators who want to dedicate their work to the public domain and have "no rights reserved". These tools are the CC0 (pronounced CC Zero) public domain dedication tool and the public domain mark. These two tools are **not** licenses but are other tools you have for your copyright protection toolbox. 
 
+The public domain dedication tool and the public domain mark differ in key ways: 
+
+### Public Domain Dedication
+- Allows users to dedicate their work to the public domain
+- Uses the same three-layer design (legal code, human-readable (commons deed), machine-readable) as CC licenses
+- Is legally enforceable
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/publicdomain.png" width="285" height="100">
 
-#### Instructions
-the three layers of the CC licenses,
-the four license elementsLinks to an external site.
-the six Creative Commons licenses,
-the two public domain tools and how they are different from CC licenses,
-if/how exceptions and limitations to copyright affect CC licensed works.
+### Public Domain Mark: 
+- Marks work as known to be free of all copyright protections
+- Has no legal effect when it's applied to works
+- Only used as a label to indicate to users of public domain status
+<img src="https://mirrors.creativecommons.org/presskit/icons/pd.xlarge.png" width="200" height="200">
+
+**REMEMBER: these two public domain tools are *not* CC licenses**
+
+Creative Commons also supports a second 
+
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/publicdomain.png" width="285" height="100">
 
 ### References
 
