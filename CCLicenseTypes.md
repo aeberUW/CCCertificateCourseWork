@@ -43,6 +43,7 @@ It's important to choose the correct license when thinking about applying a CC l
   </tr>
 </tbody></table>
 
+
 #### Licenses
 
 <style type="text/css">
@@ -69,52 +70,12 @@ It's important to choose the correct license when thinking about applying a CC l
   </tr>
 </tbody></table>
 
-#### CC BY
-
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="285" height="100">
-
-BY: credit must be given to the creator
-
-#### CC BY-SA
-
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width="285" height="100">
-
- BY: credit must be given to the creator
- SA: Adaptations must be shared under the same terms
-
-#### CC BY-NC
- 
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" width="285" height="100">
-
- BY: credit must be given to the creator
- NC: Only noncommercial uses of the work are permitted
-
-#### CC BY-NC-SA 
- 
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="285" height="100">
-
- BY: credit must be given to the creator
- NC: Only noncommercial uses of the work are permitted
- SA: Adaptations must be shared under the same terms
-
-#### CC BY-ND
- 
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nd.png" width="285" height="100">
-
- BY: credit must be given to the creator
- ND: No derivatives or adaptations of the work are permitted
-
-#### CC BY-NC-ND
-
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png" width="285" height="100">
-
- BY: credit must be given to the creator
- NC: Only noncommercial uses of the work are permitted
- ND: No derivatives or adaptations of the work are permitted
-
-
 ## Other Tools: The Public Domain
-- 
+
+In addition to the CC licenses, Creative Commons also supports a copyright tool for creators who want to dedicate their work to the public domain and have "no rights reserved". This is the CC0 (pronounced CC Zero) public domain dedication tool. Though CC0 *does* use the same three-later design (legal code, human-readable (commons deed), machine-readable), it's important to note that this is **not** a CC license. The CC0 public domain dedication is another tool in your copyright protection toolbox outside of the 6 core licenses in the CC license suite. 
+
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/publicdomain.png" width="285" height="100">
+
 #### Instructions
 the three layers of the CC licenses,
 the four license elementsLinks to an external site.
