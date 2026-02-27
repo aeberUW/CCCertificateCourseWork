@@ -92,10 +92,6 @@ The public domain dedication tool and the public domain mark differ in key ways:
 
 **REMEMBER: these two public domain tools are *not* CC licenses**
 
-Creative Commons also supports a second 
-
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/publicdomain.png" width="285" height="100">
-
 ### References
 
 - “2.1 Copyright Basics” ([https://creativecommons.org/course/cc-cert-edu/unit-2-copyright-law/2-1-copyright-basics/](url)) by Creative Commons. CC BY 4.0.
