@@ -44,6 +44,31 @@ It's important to choose the correct license when thinking about applying a CC l
 </tbody></table>
 
 #### Licenses
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky"><span style="font-weight:bold">CC BY</span><br><br><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" alt="Image" width="285" height="100"><br><br>BY: credit must be given to the creator</th>
+    <th class="tg-0pky"><span style="font-weight:bold">CC BY-NC-SA</span><br><br><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="Image" width="285" height="100"><br><br>BY: credit must be given to the creator<br>NC: Only noncommercial uses of the work are permitted<br>SA: Adaptations must be shared under the same terms</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:bold">CC BY-SA</span><br><br><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" alt="Image" width="285" height="100"><br><br>BY: credit must be given to the creator<br>SA: Adaptations must be shared under the same terms</td>
+    <td class="tg-0pky"><span style="font-weight:bold">CC BY-ND</span><br><br><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nd.png" alt="Image" width="285" height="100"><br><br>BY: credit must be given to the creator<br>ND: No derivatives or adaptations of the work are permitted</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:bold">CC BY-NC</span><br><br><br><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" alt="Image" width="285" height="100"><br><br>BY: credit must be given to the creator<br>NC: Only noncommercial uses of the work are permitted</td>
+    <td class="tg-0pky"><span style="font-weight:bold">CC BY-NC-ND</span><br><br><br><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png" alt="Image" width="285" height="100"><br><br>BY: credit must be given to the creator<br>NC: Only noncommercial uses of the work are permitted<br>ND: No derivatives or adaptations of the work are permitted</td>
+  </tr>
+</tbody></table>
+
 #### CC BY
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="285" height="100">
