@@ -81,14 +81,14 @@ The public domain dedication tool and the public domain mark differ in key ways:
 - Uses the same three-layer design (legal code, human-readable (commons deed), machine-readable) as CC licenses
 - Is legally enforceable
   
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/publicdomain.png" width="285" height="100">
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/cc-zero.png" width="285" height="100">
 
 ### Public Domain Mark: 
 - Marks work as known to be free of all copyright protections
 - Has no legal effect when it's applied to works
 - Only used as a label to indicate to users of public domain status
   
-<img src="https://mirrors.creativecommons.org/presskit/icons/pd.xlarge.png" width="200" height="200">
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/publicdomain.png" width="285" height="100">
 
 **REMEMBER: these two public domain tools are *not* CC licenses**
 
