@@ -48,6 +48,8 @@ To read more about what can and can't be protected in Canada, check out the Cana
 While copyright protections in Canada gives creators the sole right to produce/reproduce, perform, and publish works, there are some important exemptions. Without exemptions, many activities such as scholarly research, teaching, and reviewing materials would be difficult. To protect both the author's and public's best interests, certain exemptions are written into the Canadian _Copyright Act_ and called **`fair dealing`**. In the _Copyright Act_, fair dealing provides copyright exemptions for activities such as research, private study, education, parody, and satire. Other uses of copyrighted works may also be permitted if they meet the certain requirements. 
 
 To find out more about determining what uses are considered fair under the Fair Dealing exemptions, check out Western University's [Fair Dealing Analysis](https://copyright.uwo.ca/fair_dealing_analysis/index.html).
+
+Another important exemption is the [Marrakesh Treaty](https://en.wikipedia.org/wiki/Marrakesh_VIP_Treaty) which allows works to be copied and/or modified for people with print disabilities. 
   
 ## What about trademarks and patents? Are those the same?
 
