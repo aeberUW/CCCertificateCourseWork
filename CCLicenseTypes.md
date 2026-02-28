@@ -8,9 +8,8 @@ permalink: /license-types
 
 As the world moves towards building a culture of openness through initiatives like open science, open access, open data, and open educational resources, contributing towards creating a culture of reciprocity is more important than ever before. One way to contribute to building this culture and the open movement is by sharing materials and resources you create. Did you know that you own the copyright for materials you create (see [Copyright FAQ](https://aeberuw.github.io/CCCertificateCourseWork/) for more information)? At the University of Waterloo, everyone owns their own intellectual property (with some exceptions) which gives creators the ability to apply Creative Commons (CC) licenses to their creative work as appropriate ([see Policy 73 – Intellectual Property Rights](https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policies/policy-73-intellectual-property-rights)). By default, works receive all rights reserved protection under the Canadian *Copyright Act* but CC licenses allow creators to provide people with more permissions than are permitted under the default all rights reserved or other exceptions governed by copyright law. 
 
-**_Please note this FAQ is not legal advice and should not be taken as such. Please visit the [Canadian Intellectual Property Office's](https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en) website for more information about copyright in Canada.
-_**
-
+***Please note this FAQ is not legal advice and should not be taken as such. Please visit the [Canadian Intellectual Property Office's](https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en) website for more information about copyright in Canada.***
+--- 
 ## How Creative Commons Licenses Work
 
 While copyright law applies a default all rights reserved, CC licenses use a "some rights reserved" approach which grants additional permissions to users with different standardized conditions. It's important to note that CC licenses work on top of copyright law and not instead of copyright law. 
