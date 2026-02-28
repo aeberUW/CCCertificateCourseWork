@@ -6,9 +6,10 @@ permalink: /license-types
 
 # Understanding & Choosing A Creative Commons License For Your Work
 
-As the world moves towards building a culture of openness through initiatives like open science, open access, open data, and open educational resources, contributing towards creating a culture of reciprocity is more important than ever before. One way to contribute to building this culture and the open movement is by sharing materials and resources you create. Did you know that you own the copyright for materials you create (see [Copyright FAQ](https://aeberuw.github.io/CCCertificateCourseWork/) for more information)? At the University of Waterloo, everyone [owns their own intellectual property (with some exceptions)](https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policies/policy-73-intellectual-property-rights) which gives creators the ability to apply Creative Commons (CC) licenses to their creative work as appropriate. By default, works receive all rights reserved protection under the Canadian *Copyright Act* but CC licenses allow creators to provide people with more permissions than are permitted under the default all rights reserved or other exceptions governed by copyright law. 
+As the world moves towards building a culture of openness through initiatives like open science, open access, open data, and open educational resources, contributing towards creating a culture of reciprocity is more important than ever before. One way to contribute to building this culture and the open movement is by sharing materials and resources you create. Did you know that you own the copyright for materials you create (see [Copyright FAQ](https://aeberuw.github.io/CCCertificateCourseWork/) for more information)? At the University of Waterloo, everyone owns their own intellectual property (with some exceptions) which gives creators the ability to apply Creative Commons (CC) licenses to their creative work as appropriate ([see Policy 73 – Intellectual Property Rights](https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policies/policy-73-intellectual-property-rights)). By default, works receive all rights reserved protection under the Canadian *Copyright Act* but CC licenses allow creators to provide people with more permissions than are permitted under the default all rights reserved or other exceptions governed by copyright law. 
 
-***Please note this FAQ is not legal advice and should not be taken as such. Please visit the [Canadian Intellectual Property Office's](https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en) website for more information about copyright in Canada.***
+**_Please note this FAQ is not legal advice and should not be taken as such. Please visit the [Canadian Intellectual Property Office's](https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en) website for more information about copyright in Canada.
+_**
 
 ## How Creative Commons Licenses Work
 
@@ -68,17 +69,17 @@ It's important to choose the correct license when thinking about applying a CC l
 </style>
 <table class="tg"><thead>
   <tr>
-    <th class="tg-0pky"><span style="font-weight:bold">CC BY</span><br><br><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" alt="Image" width="285" height="100"><br><br>BY: credit must be given to the creator</th>
-    <th class="tg-0pky"><span style="font-weight:bold">CC BY-NC-SA</span><br><br><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="Image" width="285" height="100"><br><br>BY: credit must be given to the creator<br>NC: Only noncommercial uses of the work are permitted<br>SA: Adaptations must be shared under the same terms</th>
+    <th class="tg-0pky"><span style="font-weight:bold">CC BY</span><br><br><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" alt="Image" width="285" height="100"><br><br>BY: Credit must be given to the creator</th>
+    <th class="tg-0pky"><span style="font-weight:bold">CC BY-NC-SA</span><br><br><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="Image" width="285" height="100"><br><br>BY: Credit must be given to the creator<br>NC: Only noncommercial uses of the work are permitted<br>SA: Adaptations must be shared under the same terms</th>
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-0pky"><span style="font-weight:bold">CC BY-SA</span><br><br><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" alt="Image" width="285" height="100"><br><br>BY: credit must be given to the creator<br>SA: Adaptations must be shared under the same terms</td>
-    <td class="tg-0pky"><span style="font-weight:bold">CC BY-ND</span><br><br><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nd.png" alt="Image" width="285" height="100"><br><br>BY: credit must be given to the creator<br>ND: No derivatives or adaptations of the work are permitted</td>
+    <td class="tg-0pky"><span style="font-weight:bold">CC BY-SA</span><br><br><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" alt="Image" width="285" height="100"><br><br>BY: Credit must be given to the creator<br>SA: Adaptations must be shared under the same terms</td>
+    <td class="tg-0pky"><span style="font-weight:bold">CC BY-ND</span><br><br><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nd.png" alt="Image" width="285" height="100"><br><br>BY: Credit must be given to the creator<br>ND: No derivatives or adaptations of the work are permitted</td>
   </tr>
   <tr>
-    <td class="tg-0pky"><span style="font-weight:bold">CC BY-NC</span><br><br><br><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" alt="Image" width="285" height="100"><br><br>BY: credit must be given to the creator<br>NC: Only noncommercial uses of the work are permitted</td>
-    <td class="tg-0pky"><span style="font-weight:bold">CC BY-NC-ND</span><br><br><br><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png" alt="Image" width="285" height="100"><br><br>BY: credit must be given to the creator<br>NC: Only noncommercial uses of the work are permitted<br>ND: No derivatives or adaptations of the work are permitted</td>
+    <td class="tg-0pky"><span style="font-weight:bold">CC BY-NC</span><br><br><br><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" alt="Image" width="285" height="100"><br><br>BY: Credit must be given to the creator<br>NC: Only noncommercial uses of the work are permitted</td>
+    <td class="tg-0pky"><span style="font-weight:bold">CC BY-NC-ND</span><br><br><br><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png" alt="Image" width="285" height="100"><br><br>BY: Credit must be given to the creator<br>NC: Only noncommercial uses of the work are permitted<br>ND: No derivatives or adaptations of the work are permitted</td>
   </tr>
 </tbody></table>
 
@@ -95,7 +96,7 @@ The public domain dedication tool and the public domain mark differ in key ways:
   
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/cc-zero.png" width="285" height="100">
 
-### Public Domain Mark: 
+### Public Domain Mark 
 - Marks work as known to be free of all copyright protections
 - Has no legal effect when it is applied to works
 - Only used as a label to indicate to users of public domain status
