@@ -114,7 +114,7 @@ Although most creative works can be protected with CC licenses, there are some i
 
 The use of CC licenses for software is *not* recommended. Instead, consider using one of the [free software licenses](https://www.gnu.org/licenses/license-list#SoftwareLicenses) from the [Free Software Foundation](https://www.fsf.org/). These licenses from the Free Software Foundation are purpose-built for licensing software, contain similar rights to CC licenses, and more appropriate for software since the contain specific terms about the distribution of source code. 
 
-If your software and source code are hosted on GitHub, they have created [choosealicense.com](url) to help select which license is best for your repository.
+If your software and source code are hosted on GitHub, they have created <choosealicense.com> to help select which license is best for your repository.
 
 #### Materials in the public domain 
 
@@ -128,14 +128,14 @@ Creative Commons licenses should *not* be applied to work in the public domain. 
 
 ### References
 
-- “3.1 License Design and Terminology” ([https://creativecommons.org/course/cc-cert-edu/unit-3-anatomy-of-a-cc-license/3-1-license-design-and-terminology/](url)) by Creative Commons. CC BY 4.0.
-- “3.2 License Scope” ([https://creativecommons.org/course/cc-cert-edu/unit-3-anatomy-of-a-cc-license/3-2-license-scope/](url)) by Creative Commons. CC BY 4.0.
-- “3.4 License Enforceability” ([https://creativecommons.org/course/cc-cert-edu/unit-3-anatomy-of-a-cc-license/3-3-license-types/](url)) by Creative Commons. CC BY 4.0.
-- “3.4 License Enforceability” ([https://creativecommons.org/course/cc-cert-edu/unit-3-anatomy-of-a-cc-license/3-4-license-enforceability/](url)) by Creative Commons. CC BY 4.0.
+- “3.1 License Design and Terminology” (<https://creativecommons.org/course/cc-cert-edu/unit-3-anatomy-of-a-cc-license/3-1-license-design-and-terminology/>) by Creative Commons. CC BY 4.0.
+- “3.2 License Scope” (<https://creativecommons.org/course/cc-cert-edu/unit-3-anatomy-of-a-cc-license/3-2-license-scope/>) by Creative Commons. CC BY 4.0.
+- “3.4 License Enforceability” (<https://creativecommons.org/course/cc-cert-edu/unit-3-anatomy-of-a-cc-license/3-3-license-types/>) by Creative Commons. CC BY 4.0.
+- “3.4 License Enforceability” (<https://creativecommons.org/course/cc-cert-edu/unit-3-anatomy-of-a-cc-license/3-4-license-enforceability/>) by Creative Commons. CC BY 4.0.
 - "Frequently Asked Questions" ([https://creativecommons.org/faq/](url)) by Creative Commons. CC BY 4.0.
-- "Fair Dealing Exception Guidelines" ([https://copyright.uwo.ca/guidelines_requirements/guidelines/fair_dealing_exception_guidelines.html](url)) by Western University. CC BY-SA 4.0.
-- "Copyright Fair Dealing Analysis" ([https://copyright.uwo.ca/fair_dealing_analysis/index.html](url)) by Western University. CC BY-SA 4.0.
-- Copyright Act, RSC 1985, c C-42. ([https://laws-lois.justice.gc.ca/eng/acts/C-42/page-1.html#docCont](url)) by the Government of Canada.
+- "Fair Dealing Exception Guidelines" (<https://copyright.uwo.ca/guidelines_requirements/guidelines/fair_dealing_exception_guidelines.html]>) by Western University. CC BY-SA 4.0.
+- "Copyright Fair Dealing Analysis" (<https://copyright.uwo.ca/fair_dealing_analysis/index.html>) by Western University. CC BY-SA 4.0.
+- Copyright Act, RSC 1985, c C-42. (<https://laws-lois.justice.gc.ca/eng/acts/C-42/page-1.html#docCont>) by the Government of Canada.
 
 ---
 
