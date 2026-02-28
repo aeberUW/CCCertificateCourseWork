@@ -5,14 +5,19 @@ permalink: /license-types
 ---
 # Understanding & Choosing A Creative Commons License For Your Work
 
-As the world moves towards building a culture of openness through initiatives like open science, open access, open data, and open educational resources, contributing towards creating a culture of reciprocity is more important than ever before. One way to contribute to building this culture and the open movement is by sharing materials and resources you create. Did you know that you own the copyright for materials you create (see [Copyright FAQ](https://aeberuw.github.io/CCCertificateCourseWork/) for more information)? At the University of Waterloo, everyone [owns their own intellectual property (with some exceptions)](https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policies/policy-73-intellectual-property-rights) which gives creators the ability to apply Creative Commons licenses to their creative work as appropriate. 
+As the world moves towards building a culture of openness through initiatives like open science, open access, open data, and open educational resources, contributing towards creating a culture of reciprocity is more important than ever before. One way to contribute to building this culture and the open movement is by sharing materials and resources you create. Did you know that you own the copyright for materials you create (see [Copyright FAQ](https://aeberuw.github.io/CCCertificateCourseWork/) for more information)? At the University of Waterloo, everyone [owns their own intellectual property (with some exceptions)](https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policies/policy-73-intellectual-property-rights) which gives creators the ability to apply Creative Commons (CC) licenses to their creative work as appropriate. By default, works receive all rights resevred protection under the Canadian *Copyright Act* but CC licenses allow creators to provide people with more permissions than are permitted under the default all rights reserved or other exceptions governed by copyright law. 
 
 ## How the Licenses Work
 
+While copyright law applies a default all rights reserved, CC licenses use a "some rights reserved" approach which grants additional permissions to users with different standardized conditions. It's important to note that CC licenses work on top of copyright law and not instead of copyright law. 
+
 Each CC license is made up of **three** layers: 
+
 1. Legal Code: The legal code makes up the lawyer-readable part of the license and includes the terms and conditions that are legally enforceable in court.
 2. Human Readable: The human-readable layer is known as the Commons Deed and contains a summary of the legal code that lays out the key license terms in a way non-lawyers can understand.
 3. Machine Readable: The machine-readable layer is what allows software, apps, and websites etc., to understand the code in a way that they can understand. This allows the various technologies to understand what licenses are applied to works.
+
+All CC licenses are legally enforceable, but they are intentionally designed to be accessible to non-lawyers (especially through the human-readable layer). 
 
 ## Types of Creative Commons Licenses
 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.xlarge.png" width="200" height="200">
@@ -29,17 +34,21 @@ It's important to choose the correct license when thinking about applying a CC l
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg"><thead>
+<table class="tg" style="undefined;table-layout: fixed; width: 742px"><colgroup>
+<col style="width: 391px">
+<col style="width: 351px">
+</colgroup>
+<thead>
   <tr>
-    <th class="tg-0pky"><span style="font-weight:bold">By Attribution (BY): </span><br>Credit must be given to the creator<br><br><img src="https://mirrors.creativecommons.org/presskit/icons/by.xlarge.png" alt="Image" width="200" height="200"></th>
-    <th class="tg-0pky"><span style="font-weight:bold">NonCommercial (NC): </span><br>Only noncommercial uses of the work are permitted<br><br><img src="https://mirrors.creativecommons.org/presskit/icons/nc.xlarge.png" alt="Image" width="200" height="200"></th>
+    <th class="tg-0lax"><span style="font-weight:bold">By Attribution (BY): </span><br><br>Credit must be given to the creator (can be a pseudonym or anonymous) if it's requested. All CC licenses include this condition. <br><br><img src="https://mirrors.creativecommons.org/presskit/icons/by.xlarge.png" alt="Image" width="150" height="150"></th>
+    <th class="tg-0lax"><span style="font-weight:bold">NonCommercial (NC): </span><br><br>Reuses of the work are only permitted if they do not intend commercial gain (e.g., making a monetary profit). <br><br><img src="https://mirrors.creativecommons.org/presskit/icons/nc.xlarge.png" alt="Image" width="150" height="150"></th>
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-0pky"><span style="font-weight:bold">Share Alike (SA): </span><br>Adaptations must be shared under the same terms<br><br><img src="https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png" alt="Image" width="200" height="200"></td>
-    <td class="tg-0pky"><span style="font-weight:bold">NoDerivatives (ND): </span><br>No derivatives or adaptations of the work are permitted<br><br><img src="https://mirrors.creativecommons.org/presskit/icons/nd.xlarge.png" alt="Image" width="200" height="200"></td>
+    <td class="tg-0lax"><span style="font-weight:bold">ShareAlike (SA): </span><br><br>Adaptations and derivatives of the work must be licensed and shared under the same terms. <br><br><img src="https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png" alt="Image" width="150" height="150"></td>
+    <td class="tg-0lax"><span style="font-weight:bold">NoDerivatives (ND): </span><br><br>No derivatives or adaptations of the work are permitted to be shared. <br><br><img src="https://mirrors.creativecommons.org/presskit/icons/nd.xlarge.png" alt="Image" width="150" height="150"></td>
   </tr>
 </tbody></table>
 
@@ -96,19 +105,31 @@ The public domain dedication tool and the public domain mark differ in key ways:
 
 Although most creative works can be protected with CC licenses, there are some important exceptions and limitations to consider! 
 
-### Software
+### Exceptions 
 
-The use of CC licenses for software is **not** recommended. Instead, consider using one of the [free software licenses](https://www.gnu.org/licenses/license-list#SoftwareLicenses) from the [Free Software Foundation](https://www.fsf.org/). These licenses from the Free Software Foundation are purpose-built for licensing software, contain similar rights to CC licenses, and more appropriate for software since the contain specific terms about the distribution of source code. 
+#### Software
 
+The use of CC licenses for software is *not* recommended. Instead, consider using one of the [free software licenses](https://www.gnu.org/licenses/license-list#SoftwareLicenses) from the [Free Software Foundation](https://www.fsf.org/). These licenses from the Free Software Foundation are purpose-built for licensing software, contain similar rights to CC licenses, and more appropriate for software since the contain specific terms about the distribution of source code. 
 
+If your software and source code are hosted on GitHub, they have created [choosealicense.com](url) to help select which license is best for your repository.
+
+#### Materials in the public domain 
+
+Creative Commons licenses should *not* be applied to work in the public domain. If they are applied in error, CC licenses will not be valid and have no effect on works within the public domain. 
+
+### Limitations
+
+- Creative Commons Licenses are built on copytright law, and only operate when a work is within the scope of copyright law and any restrictions and exceptions under copyright law (e.g., fair dealing and provisions for people with diasbilities). For example, if the intended use of a work falls within fair dealing exceptions, users do not need to comply with and follow the terms and conditions of the CC license. If the intended use of a work falls under any of the exemptions covered by copyright law, users do not need to follow the terms and conditions of the CC license. See the [Copyright FAQ](https://aeberuw.github.io/CCCertificateCourseWork/) for more information on exemptions. 
+- Other intellectual property protections (e.g., trademarks and patents) and rights (e.g., privacy rights) must be managed separatrely and are *not* covered by CC licenses. This means that there may be additional rights applied to a work that otherwise restrict use. 
+- Creative Commons licenses have *no* effect and are not valid on materials in the public domain.
 
 ### References
 
-- “2.1 Copyright Basics” ([https://creativecommons.org/course/cc-cert-edu/unit-2-copyright-law/2-1-copyright-basics/](url)) by Creative Commons. CC BY 4.0.
-- “2.2 Global Aspects of Copyright” ([https://creativecommons.org/course/cc-cert-edu/unit-2-copyright-law/2-2-global-aspects-of-copyright/](url)) by Creative Commons. CC BY 4.0.
-- “The Public Domain” ([https://creativecommons.org/course/cc-cert-edu/unit-2-copyright-law/](url)) by Creative Commons. CC BY 4.0.
-- “Exceptions and Limitations to Copyright” ([https://creativecommons.org/course/cc-cert-edu/unit-2-copyright-law/2-4-exceptions-and-limitations-to-copyright/](url)) by Creative Commons. CC BY 4.0.
-- "CC0 FAQ" ([https://wiki.creativecommons.org/wiki/CC0_FAQ#How_do_I_apply_CC0_to_my_work.3F](url)) by Creative Commons. CC BY 4.0.
+- “3.1 License Design and Terminology” ([https://creativecommons.org/course/cc-cert-edu/unit-3-anatomy-of-a-cc-license/3-1-license-design-and-terminology/](url)) by Creative Commons. CC BY 4.0.
+- “3.2 License Scope” ([https://creativecommons.org/course/cc-cert-edu/unit-3-anatomy-of-a-cc-license/3-2-license-scope/](url)) by Creative Commons. CC BY 4.0.
+- “3.4 License Enforceability” ([https://creativecommons.org/course/cc-cert-edu/unit-3-anatomy-of-a-cc-license/3-3-license-types/](url)) by Creative Commons. CC BY 4.0.
+- “3.4 License Enforceability” ([https://creativecommons.org/course/cc-cert-edu/unit-3-anatomy-of-a-cc-license/3-4-license-enforceability/](url)) by Creative Commons. CC BY 4.0.
+- "Frequently Asked Questions" ([https://creativecommons.org/faq/](url)) by Creative Commons. CC BY 4.0.
 - "Fair Dealing Exception Guidelines" ([https://copyright.uwo.ca/guidelines_requirements/guidelines/fair_dealing_exception_guidelines.html](url)) by Western University. CC BY-SA 4.0.
 - "Copyright Fair Dealing Analysis" ([https://copyright.uwo.ca/fair_dealing_analysis/index.html](url)) by Western University. CC BY-SA 4.0.
 - "Trademarks Guide" ([https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/trademarks/trademarks-guide](url)) by the Government of Canada.
