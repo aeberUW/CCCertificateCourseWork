@@ -10,7 +10,7 @@ As the world moves towards building a culture of openness through initiatives li
 
 ***Please note this FAQ is not legal advice and should not be taken as such. Please visit the [Canadian Intellectual Property Office's](https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en) website for more information about copyright in Canada.***
 
-## How the Licenses Work
+## How Creative Commons Licenses Work
 
 While copyright law applies a default all rights reserved, CC licenses use a "some rights reserved" approach which grants additional permissions to users with different standardized conditions. It's important to note that CC licenses work on top of copyright law and not instead of copyright law. 
 
@@ -97,7 +97,7 @@ The public domain dedication tool and the public domain mark differ in key ways:
 
 ### Public Domain Mark: 
 - Marks work as known to be free of all copyright protections
-- Has no legal effect when it's applied to works
+- Has no legal effect when it is applied to works
 - Only used as a label to indicate to users of public domain status
   
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/publicdomain.png" width="285" height="100">
@@ -106,7 +106,7 @@ The public domain dedication tool and the public domain mark differ in key ways:
 
 ## Exceptions & Limitations to Creative Commons Licenses
 
-Although most creative works can be protected with CC licenses, there are some important exceptions and limitations to consider! 
+Although CC licenses can be applied to most creative works, there are some important exceptions and limitations to consider! 
 
 ### Exceptions 
 
@@ -122,7 +122,7 @@ Creative Commons licenses should *not* be applied to work in the public domain. 
 
 ### Limitations
 
-- Creative Commons Licenses are built on top of copyright law and only operate when a work is within the scope of copyright law and any restrictions and exceptions under copyright law (e.g., fair dealing and provisions for people with disabilities). For example, if the intended use of a work falls within fair dealing exceptions, users do not need to comply with and follow the terms and conditions of the CC license. If the intended use of a work falls under any of the exemptions covered by copyright law, users do not need to follow the terms and conditions of the CC license. See the [Copyright FAQ](https://aeberuw.github.io/CCCertificateCourseWork/) for more information on exemptions. 
+- Creative Commons Licenses are built to function on top of copyright law and only operate when a work is within the scope of copyright law and any restrictions and exceptions under copyright law (e.g., fair dealing and provisions for people with disabilities). For example, if the intended use of a work falls within fair dealing exceptions, users do not need to comply with and follow the terms and conditions of the CC license. If the intended use of a work falls under any of the exemptions covered by copyright law, users do not need to follow the terms and conditions of the CC license. See the [Copyright FAQ](https://aeberuw.github.io/CCCertificateCourseWork/) for more information on exemptions. 
 - Other intellectual property protections (e.g., trademarks and patents) and rights (e.g., privacy rights) must be managed separately and are *not* covered by CC licenses. This means that there may be additional rights applied to a work that otherwise restrict use. 
 - Creative Commons licenses have *no* effect and are not valid on materials in the public domain.
 
