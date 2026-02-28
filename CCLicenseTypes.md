@@ -23,19 +23,19 @@ Each CC license is made up of **three** layers:
 All CC licenses are legally enforceable, but they are intentionally designed to be accessible to non-lawyers (especially through the human-readable layer). 
 
 ## Types of Creative Commons Licenses
-<img src="https://mirrors.creativecommons.org/presskit/icons/cc.xlarge.png" width="200" height="200">
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.xlarge.png" width="150" height="150">
 
 This is the Creative Commons icon that is included in all licenses. 
 
 It's important to choose the correct license when thinking about applying a CC license to your work! Creative Commons licenses use a combination of **four** elements to create **six** licenses. 
 
-### Elements
+### License Elements
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
@@ -60,9 +60,9 @@ It's important to choose the correct license when thinking about applying a CC l
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
