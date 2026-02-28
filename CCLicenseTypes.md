@@ -92,6 +92,16 @@ The public domain dedication tool and the public domain mark differ in key ways:
 
 **REMEMBER: these two public domain tools are *not* CC licenses**
 
+## Exceptions & Limitations to Creative Commons Licenses
+
+Although most creative works can be protected with CC licenses, there are some important exceptions and limitations to consider! 
+
+### Software
+
+The use of CC licenses for software is **not** recommended. Instead, consider using one of the [free software licenses](https://www.gnu.org/licenses/license-list#SoftwareLicenses) from the [Free Software Foundation](https://www.fsf.org/). These licenses from the Free Software Foundation are purpose-built for licensing software, contain similar rights to CC licenses, and more appropriate for software since the contain specific terms about the distribution of source code. 
+
+
+
 ### References
 
 - “2.1 Copyright Basics” ([https://creativecommons.org/course/cc-cert-edu/unit-2-copyright-law/2-1-copyright-basics/](url)) by Creative Commons. CC BY 4.0.
