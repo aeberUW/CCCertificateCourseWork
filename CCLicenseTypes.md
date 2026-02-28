@@ -33,9 +33,9 @@ It's important to choose the correct license when thinking about applying a CC l
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;font-size:16px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;font-size:16px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
@@ -56,13 +56,13 @@ It's important to choose the correct license when thinking about applying a CC l
 </tbody></table>
 
 
-#### Licenses
+### Licenses
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;font-size:16px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;font-size:16px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
@@ -132,8 +132,8 @@ Creative Commons licenses should *not* be applied to work in the public domain. 
 - “3.2 License Scope” (<https://creativecommons.org/course/cc-cert-edu/unit-3-anatomy-of-a-cc-license/3-2-license-scope/>) by Creative Commons. CC BY 4.0.
 - “3.4 License Enforceability” (<https://creativecommons.org/course/cc-cert-edu/unit-3-anatomy-of-a-cc-license/3-3-license-types/>) by Creative Commons. CC BY 4.0.
 - “3.4 License Enforceability” (<https://creativecommons.org/course/cc-cert-edu/unit-3-anatomy-of-a-cc-license/3-4-license-enforceability/>) by Creative Commons. CC BY 4.0.
-- "Frequently Asked Questions" ([https://creativecommons.org/faq/](url)) by Creative Commons. CC BY 4.0.
-- "Fair Dealing Exception Guidelines" (<https://copyright.uwo.ca/guidelines_requirements/guidelines/fair_dealing_exception_guidelines.html]>) by Western University. CC BY-SA 4.0.
+- "Frequently Asked Questions" (<https://creativecommons.org/faq/>) by Creative Commons. CC BY 4.0.
+- "Fair Dealing Exception Guidelines" (<https://copyright.uwo.ca/guidelines_requirements/guidelines/fair_dealing_exception_guidelines.html>) by Western University. CC BY-SA 4.0.
 - "Copyright Fair Dealing Analysis" (<https://copyright.uwo.ca/fair_dealing_analysis/index.html>) by Western University. CC BY-SA 4.0.
 - Copyright Act, RSC 1985, c C-42. (<https://laws-lois.justice.gc.ca/eng/acts/C-42/page-1.html#docCont>) by the Government of Canada.
 
