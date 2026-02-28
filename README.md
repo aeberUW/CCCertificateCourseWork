@@ -102,4 +102,10 @@ If you want to dedicate your work to the public domain, you can use the [CC0](ht
 
 _For any questions about the site content please contact Anneliese Eber <aeber@uwaterloo.ca>_ 
 
+---
+
+[Learn About Creative Commons Licenses](https://aeberuw.github.io/CCCertificateCourseWork/license-types)
+
+---
+
 _Website theme: [Hacker](https://github.com/pages-themes/hacker) CC0_
