@@ -114,7 +114,7 @@ Although CC licenses can be applied to most creative works, there are some impor
 
 The use of CC licenses for software is *not* recommended. Instead, consider using one of the [free software licenses](https://www.gnu.org/licenses/license-list#SoftwareLicenses) from the [Free Software Foundation](https://www.fsf.org/). These licenses from the Free Software Foundation are purpose-built for licensing software, contain similar rights to CC licenses, and more appropriate for software since the contain specific terms about the distribution of source code. 
 
-If your software and source code are hosted on GitHub, they have created [https://choosealicense.com/](https://choosealicense.com) to help select which license is best for your repository.
+If your software and source code are hosted on GitHub, they have created [choosealicense.com](https://choosealicense.com) to help select which license is best for your repository.
 
 #### Materials in the public domain 
 
