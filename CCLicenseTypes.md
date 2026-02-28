@@ -3,9 +3,12 @@ layout: default
 title: "Choosing a Creative Commons License"
 permalink: /license-types
 ---
+
 # Understanding & Choosing A Creative Commons License For Your Work
 
-As the world moves towards building a culture of openness through initiatives like open science, open access, open data, and open educational resources, contributing towards creating a culture of reciprocity is more important than ever before. One way to contribute to building this culture and the open movement is by sharing materials and resources you create. Did you know that you own the copyright for materials you create (see [Copyright FAQ](https://aeberuw.github.io/CCCertificateCourseWork/) for more information)? At the University of Waterloo, everyone [owns their own intellectual property (with some exceptions)](https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policies/policy-73-intellectual-property-rights) which gives creators the ability to apply Creative Commons (CC) licenses to their creative work as appropriate. By default, works receive all rights resevred protection under the Canadian *Copyright Act* but CC licenses allow creators to provide people with more permissions than are permitted under the default all rights reserved or other exceptions governed by copyright law. 
+As the world moves towards building a culture of openness through initiatives like open science, open access, open data, and open educational resources, contributing towards creating a culture of reciprocity is more important than ever before. One way to contribute to building this culture and the open movement is by sharing materials and resources you create. Did you know that you own the copyright for materials you create (see [Copyright FAQ](https://aeberuw.github.io/CCCertificateCourseWork/) for more information)? At the University of Waterloo, everyone [owns their own intellectual property (with some exceptions)](https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policies/policy-73-intellectual-property-rights) which gives creators the ability to apply Creative Commons (CC) licenses to their creative work as appropriate. By default, works receive all rights reserved protection under the Canadian *Copyright Act* but CC licenses allow creators to provide people with more permissions than are permitted under the default all rights reserved or other exceptions governed by copyright law. 
+
+***Please note this FAQ is not legal advice and should not be taken as such. Please visit the [Canadian Intellectual Property Office's](https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en) website for more information about copyright in Canada.***
 
 ## How the Licenses Work
 
@@ -119,8 +122,8 @@ Creative Commons licenses should *not* be applied to work in the public domain. 
 
 ### Limitations
 
-- Creative Commons Licenses are built on copytright law, and only operate when a work is within the scope of copyright law and any restrictions and exceptions under copyright law (e.g., fair dealing and provisions for people with diasbilities). For example, if the intended use of a work falls within fair dealing exceptions, users do not need to comply with and follow the terms and conditions of the CC license. If the intended use of a work falls under any of the exemptions covered by copyright law, users do not need to follow the terms and conditions of the CC license. See the [Copyright FAQ](https://aeberuw.github.io/CCCertificateCourseWork/) for more information on exemptions. 
-- Other intellectual property protections (e.g., trademarks and patents) and rights (e.g., privacy rights) must be managed separatrely and are *not* covered by CC licenses. This means that there may be additional rights applied to a work that otherwise restrict use. 
+- Creative Commons Licenses are built on top of copyright law and only operate when a work is within the scope of copyright law and any restrictions and exceptions under copyright law (e.g., fair dealing and provisions for people with disabilities). For example, if the intended use of a work falls within fair dealing exceptions, users do not need to comply with and follow the terms and conditions of the CC license. If the intended use of a work falls under any of the exemptions covered by copyright law, users do not need to follow the terms and conditions of the CC license. See the [Copyright FAQ](https://aeberuw.github.io/CCCertificateCourseWork/) for more information on exemptions. 
+- Other intellectual property protections (e.g., trademarks and patents) and rights (e.g., privacy rights) must be managed separately and are *not* covered by CC licenses. This means that there may be additional rights applied to a work that otherwise restrict use. 
 - Creative Commons licenses have *no* effect and are not valid on materials in the public domain.
 
 ### References
@@ -132,9 +135,6 @@ Creative Commons licenses should *not* be applied to work in the public domain. 
 - "Frequently Asked Questions" ([https://creativecommons.org/faq/](url)) by Creative Commons. CC BY 4.0.
 - "Fair Dealing Exception Guidelines" ([https://copyright.uwo.ca/guidelines_requirements/guidelines/fair_dealing_exception_guidelines.html](url)) by Western University. CC BY-SA 4.0.
 - "Copyright Fair Dealing Analysis" ([https://copyright.uwo.ca/fair_dealing_analysis/index.html](url)) by Western University. CC BY-SA 4.0.
-- "Trademarks Guide" ([https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/trademarks/trademarks-guide](url)) by the Government of Canada.
-- "A Guide to Copyright" ([https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/guide-copyright](url)) by the Government of Canada.
-- "Learn patents – Canadian Intellectual Property Office" ([https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/learn-patents-canadian-intellectual-property-office](url)) by the Government of Canada.
 - Copyright Act, RSC 1985, c C-42. ([https://laws-lois.justice.gc.ca/eng/acts/C-42/page-1.html#docCont](url)) by the Government of Canada.
 
 ---
