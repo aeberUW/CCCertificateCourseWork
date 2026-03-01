@@ -84,7 +84,7 @@ It's important to choose the correct license when thinking about applying a CC l
 
 ## Other Tools: The Public Domain
 
-In addition to the CC licenses, Creative Commons also supports two copyright tools for creators who want to dedicate their work to the public domain and have "no rights reserved". These tools are the CC0 (pronounced CC Zero) public domain dedication tool and the public domain mark. These two tools are **not** licenses but are other tools you have for your copyright protection toolbox. 
+In addition to the CC licenses, Creative Commons also supports two copyright tools for creators who want to dedicate their work to the public domain and have "no rights reserved". These tools are the CC0 (pronounced CC Zero) public domain dedication tool and the public domain mark. These two tools are **not** licenses but are additional tools you have for your copyright protection toolbox. Like CC licenses, CC0 is a copyright tool, but unlike CC licenses, it covers additional rights that make it clear that the rightsholder is allowing maximally free use of a work.
 
 The public domain dedication tool and the public domain mark differ in key ways: 
 
