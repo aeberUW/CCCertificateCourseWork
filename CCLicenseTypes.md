@@ -89,7 +89,7 @@ In addition to the CC licenses, Creative Commons also supports two copyright too
 The public domain dedication tool and the public domain mark differ in key ways: 
 
 ### Public Domain Dedication (CC0)
-- Allows users to dedicate their work to the public domain
+- Allows license holders to dedicate work to the public domain (can only be applied by license holder)
 - CC0 uses the same three-layer design (legal code, human-readable (commons deed), machine-readable) as the CC licenses
 - Is legally enforceable
   
@@ -99,6 +99,7 @@ The public domain dedication tool and the public domain mark differ in key ways:
 - Indicates work is known to be free of all copyright protections (e.g., is in the public domain)
 - Has no legal effect when it is applied to works by itself
 - Only used as a label to indicate public domain status to users
+- Can be applied by anyone (e.g., museums, libraries, and archives)
   
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/publicdomain.png" width="285" height="100">
 
