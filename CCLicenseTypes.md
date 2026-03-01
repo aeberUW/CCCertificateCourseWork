@@ -146,10 +146,4 @@ Creative Commons licenses should *not* be applied to work in the public domain. 
 ---
 
 _For any questions about the site content please contact Anneliese Eber <aeber@uwaterloo.ca>_ 
-
----
-
-[Copyright FAQ](https://aeberuw.github.io/CCCertificateCourseWork/)
-
----
 _Website theme: [Hacker](https://github.com/pages-themes/hacker) CC0_
