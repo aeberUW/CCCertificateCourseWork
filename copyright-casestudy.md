@@ -5,7 +5,7 @@ permalink: /international-copyright
 ---
 # Copyright in the Netherlands
 
-Copyrigght in the Netherlands is governed by Dutch copyright law known as [_Auteurswet_](https://wetten.overheid.nl/BWBR0001886/2026-01-01)
+Copyright in the Netherlands is governed by Dutch copyright law known as [_Auteurswet_](https://wetten.overheid.nl/BWBR0001886/2026-01-01)
 
 ## Dutch Copyright Landscape 
 ### Copyright Law
