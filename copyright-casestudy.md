@@ -5,13 +5,11 @@ permalink: /international-copyright
 ---
 # Copyright in the Netherlands
 
-Copyright in the Netherlands is governed by the Dutch Copyright Act known as [_Auteurswet_](https://wetten.overheid.nl/BWBR0001886/2026-01-01). 
+Copyright in the Netherlands is governed by the Dutch Copyright Act (DCA) known as [_Auteurswet_](https://wetten.overheid.nl/BWBR0001886/2026-01-01). 
 
 ## Dutch Copyright Landscape 
-### Copyright Law 
-- What is protected: Original works or literature, science, and or art that are perceptible to the senses (e.g., are in fixed form and can be seen, read, or heard)
-- How is copyright applied: Works are automatically protected if eligible for copyright protection
-- Length of protection: Creator's life plus 70 years
+### The Basics
+Under the DCA, copyright protection is automatically applied to original works of literature, science, and or art that are perceptible to the senses (e.g., are in fixed form and can be seen, read, or heard). Works are protected for the creator's life plus 70 years.
 
 ### International Treaties
 The Netherlands is a signatory state for the following: 
