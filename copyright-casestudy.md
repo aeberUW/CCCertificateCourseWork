@@ -19,10 +19,10 @@ The Netherlands is a signatory of:
 - [The WIPO Performances and Phonograms Treaty](https://en.wikipedia.org/wiki/WIPO_Performances_and_Phonograms_Treaty)
 - [The Agreement on Trade-Related Aspects of Intellectual Property Rights](https://en.wikipedia.org/wiki/TRIPS_Agreement)
 
-Note: As a member of the European Union (EU), all EU copyright regulations and treaties apply to NL. Notably, the Netherlands is not a signatory of the [Marrakesh Treaty](https://en.wikipedia.org/wiki/Marrakesh_VIP_Treaty); however, as an  the EU is a signatory which requires the Netherlands to abide by the treaty, despite not being a signatory themselves.
+Note: As a European Union (EU) member state, all EU copyright regulations, and treaties the EU is a signatory of, apply to NL, including the [Marrakesh Treaty](https://en.wikipedia.org/wiki/Marrakesh_VIP_Treaty), even though NL is not a signatory itself. 
 
 ### Summary
-The copyright landscape in the Netherlands is comparable to that of Canada with similar exceptions to copyright ([_Auteurswet_ Articles 15–25a](https://wetten.overheid.nl/BWBR0001886/2026-01-01/?g=2026-01-01&z=2026-01-01#HoofdstukI_Paragraaf6)) as are seen elsewhere. Interestingly, _Auteurswet_ copyright exceptions seem to be more permissive than those elsewhere in the world, particularly for personal copies. However, in a [2014 court case](https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:62012CJ0435), the Court of Justice of the European Union ruled that creating [personal copies derived from unlawful sources is illegal](https://legalblogs.wolterskluwer.com/copyright-blog/no-more-downloading-from-unlawful-sources/), though [_Auteurswet_](https://wetten.overheid.nl/BWBR0001886/2026-01-01/?g=2026-01-01&z=2026-01-01#HoofdstukI_Paragraaf6_Artikel16) and [copyright acts from other EU members](https://doi.org/10.1007/s40319-014-0295-7) do not expressly differentiate personal copies based on the source. Regardless, public norms and approaches to copyright in NL are influenced oveall by their status as an EU member and a signatory of major international treaties.
+The copyright landscape in the Netherlands is [comparable to that of Canada](https://aeberuw.github.io/CCCertificateCourseWork/) with similar exceptions to copyright ([_Auteurswet_ Articles 15–25a](https://wetten.overheid.nl/BWBR0001886/2026-01-01/?g=2026-01-01&z=2026-01-01#HoofdstukI_Paragraaf6)) as are seen [elsewhere](https://creativecommons.org/course/cc-cert-edu/unit-2-copyright-law/2-4-exceptions-and-limitations-to-copyright/). Interestingly, _Auteurswet_ copyright exceptions seem to be more permissive than those elsewhere in the world, particularly for personal copies. However, in a [2014 court case](https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:62012CJ0435), the Court of Justice of the European Union ruled that creating [personal copies derived from unlawful sources is illegal](https://legalblogs.wolterskluwer.com/copyright-blog/no-more-downloading-from-unlawful-sources/), though [_Auteurswet_](https://wetten.overheid.nl/BWBR0001886/2026-01-01/?g=2026-01-01&z=2026-01-01#HoofdstukI_Paragraaf6_Artikel16) and [copyright acts from other EU members](https://doi.org/10.1007/s40319-014-0295-7) do not expressly differentiate personal copies based on the source. Regardless, public norms and approaches to copyright in NL are influenced oveall by their status as an EU member and a signatory of major international treaties.
 
 ## Creative Commons in the Netherlands
 - The Netherlands have their own Creative Commons chapter which is supported by the [Open Netherlands Association](https://www.opennederland.nl/) and part of the international CC community.
@@ -37,12 +37,12 @@ Most public funders in the Netherlands are part of [cOAlition S](https://www.coa
 ---
 
 ## References 
-- "_Auteurswet_, 1912" (<https://wetten.overheid.nl/BWBR0001886/2026-01-01/?g=2026-01-01&z=2026-01-01>) by the Government of the Netherlands. 
+- “2.4 Exceptions and Limitations to Copyright” (<https://creativecommons.org/course/cc-cert-edu/unit-2-copyright-law/2-4-exceptions-and-limitations-to-copyright/>) by Creative Commons. CC BY 4.0.
 - "29 838 Copyright policy No. 72 letter from the state secretary for security and justice" (<https://zoek.officielebekendmakingen.nl/kst-29838-72.html>) (2014) by the Dutch House of Representatives of the States General. 
 - "About this site" (<https://www.openaccess.nl/en/about-contact>) by Openaccess.nl. 
 - "ACI Adam BV and Others v Stichting de Thuiskopie and Stichting Onderhandelingen Thuiskopie vergoeding (Case C‑435/12)" (<https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:62012CJ0435>) (2014) by the Court of Justice of the European Union. 
 - "ACI Adam BV v. Stichting de Thuiskopie" (<https://globalfreedomofexpression.columbia.edu/cases/aci-adam-bv-and-others-v-stichting-de-thuiskopie-stichting-onderhandelingen-thuiskopie-vergoeding/>) by Columbia Global Freedom of Expression.   
-- "Auteurswet" (<https://wetten.overheid.nl/BWBR0001886/2026-01-01/?g=2026-01-01&z=2026-01-01>)
+- "_Auteurswet_, 1912" (<https://wetten.overheid.nl/BWBR0001886/2026-01-01/?g=2026-01-01&z=2026-01-01>) by the Government of the Netherlands. 
 - "Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities" (<https://openaccess.mpg.de/Berlin-Declaration>) by the Max Planck Society. 
 - "cOAlition S" (<https://www.coalition-s.org/>) by the European Science Foundation. CC BY 4.0. 
 - "Copyright" (<https://business.gov.nl/regulations/copyright/>) by the Netherlands Enterprise Agency, RVO. 
@@ -60,7 +60,8 @@ Most public funders in the Netherlands are part of [cOAlition S](https://www.coa
 - "Netherlands" (<https://wiki.creativecommons.org/wiki/netherlands>) by Creative Commons Netherlands. CC BY 4.0.
 - "No more downloading from unlawful sources?" (<https://legalblogs.wolterskluwer.com/copyright-blog/no-more-downloading-from-unlawful-sources/>) (2014) by João Pedro Quintais and Alexander de Leeuw (Kluwer Copyright Blog). 
 - "Plan S Principles" (<https://www.coalition-s.org/plan_s_principles/>) by the European Science Foundation. CC BY 4.0.
-- "Private Copying and Downloading from Unlawful Sources" (<https://doi.org/10.1007/s40319-014-0295-7>) by João Pedro Quintais. 
+- "Private Copying and Downloading from Unlawful Sources" (<https://doi.org/10.1007/s40319-014-0295-7>) by João Pedro Quintais.
+- "So, You Want To Know About Copyright? A Beginner’s FAQ" (<https://aeberuw.github.io/CCCertificateCourseWork/>) by Anneliese Eber. CC BY-SA 4.0. 
 - "TU Delft Policy and Guidelines of Open Access Publishing"(<https://filelist.tudelft.nl/Library/Themaportalen/Open.tudelft.nl/OA_beleid.pdf>) by TU Delft. CC BY 4.0. 
 
 ---
