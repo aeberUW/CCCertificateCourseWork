@@ -9,7 +9,7 @@ Copyright in the Netherlands is governed by the Dutch Copyright Act (DCA) known 
 
 ## Dutch Copyright Landscape 
 ### The Basics
-Under the DCA, copyright protection is automatically applied to original works of literature, science, and or art that are perceptible to the senses (e.g., are in fixed form and can be seen, read, or heard). Works are protected for the creator's life plus 70 years.
+Under the DCA, copyright protection automatically applies to original works of literature, science, and or art that are perceptible to the senses (i.e., in fixed form). Works are protected for the creator's life plus 70 years.
 
 ### International Treaties
 The Netherlands is a signatory state for the following: 
@@ -19,29 +19,49 @@ The Netherlands is a signatory state for the following:
 - [The WIPO Performances and Phonograms Treaty](https://en.wikipedia.org/wiki/WIPO_Performances_and_Phonograms_Treaty)
 - [The Agreement on Trade-Related Aspects of Intellectual Property Rights](https://en.wikipedia.org/wiki/TRIPS_Agreement)
 
-In addition, as a member of the European Union (EU), all EU copyright regulations and treaties apply to the Netherlands. However, notably, the Netherlands are not a signatory of the [Marrakesh Treaty](https://en.wikipedia.org/wiki/Marrakesh_VIP_Treaty), though the EU is a signatory which would require the Netherlands to abide by the treaty despite not being a signatory themselves. 
+Note: As a member of the European Union (EU), all EU copyright regulations and treaties apply to the Netherlands. Notably, the Netherlands is not a signatory of the [Marrakesh Treaty](https://en.wikipedia.org/wiki/Marrakesh_VIP_Treaty), though the EU is a signatory which requires the Netherlands to abide by the treaty despite not being a signatory themselves.
 
 ### Summary
-Overall, the copyright landscape in the Netherlands is comparable to that of Canada with similar limitations to copyright ([_Auteurswet_ Articles 15–25a](https://wetten.overheid.nl/BWBR0001886/2026-01-01/?g=2026-01-01&z=2026-01-01#HoofdstukI_Paragraaf6)) as are seen elsewhere. Interestingly, copyright limitations laid out in _Auteurswet_ seem to be more permissive than copyright elsewhere in the world; however, in a [2014 court case](https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:62012CJ0435), the Court of Justice of the European Union ruled that making [personal copies made from unlawful sources is illegal](https://legalblogs.wolterskluwer.com/copyright-blog/no-more-downloading-from-unlawful-sources/), though seemingly permissible per [Article 16](https://wetten.overheid.nl/BWBR0001886/2026-01-01/?g=2026-01-01&z=2026-01-01#HoofdstukI_Paragraaf6_Artikel16) which has not been changed since the ruling. Though somewhat [unique in its approach to piracy](https://doi.org/10.1007/s40319-014-0295-7), public norms and approaches to copyright in the Netherlands are largely shaped by the country's status as a signatory of many manjor international treaties.
+Overall, the copyright landscape in the Netherlands is comparable to that of Canada with similar limitations to copyright ([_Auteurswet_ Articles 15–25a](https://wetten.overheid.nl/BWBR0001886/2026-01-01/?g=2026-01-01&z=2026-01-01#HoofdstukI_Paragraaf6)) as are seen elsewhere. Interestingly, copyright limitations laid out in _Auteurswet_ seem to be more permissive than copyright elsewhere in the world; however, in a [2014 court case](https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:62012CJ0435), the Court of Justice of the European Union ruled that making [personal copies made from unlawful sources is illegal](https://legalblogs.wolterskluwer.com/copyright-blog/no-more-downloading-from-unlawful-sources/), though seemingly permissible per [Article 16](https://wetten.overheid.nl/BWBR0001886/2026-01-01/?g=2026-01-01&z=2026-01-01#HoofdstukI_Paragraaf6_Artikel16) which has not been changed since the ruling. Though somewhat [unique in its approach to piracy](https://doi.org/10.1007/s40319-014-0295-7), public norms and approaches to copyright in the Netherlands are largely shaped by the country's status as an EU member and a signatory of major international treaties.
 
 ## Creative Commons in the Netherlands
 - The Netherlands have their own Creative Commons chapter which is supported by the [Open Netherlands Association](https://www.opennederland.nl/) and part of the international CC community.
-- The Open Netherlands Association, a network of organizations and professionals (including Code for NL, Creative Commons Netherlands, and Wikimedia Netherlands) connects different sectors of open access supporters and promotes access to materials that can be freely used, edited, and shared.
+- The Open Netherlands Association, a network of organizations (including Creative Commons Netherlands) and professionals, promotes access to materials that can freely be used, edited, and shared.
 
 ### Creative Commons Adoption 
-- The open movement is well-established and adopted throughout the Netherlands with the Dutch government implementing the [National Plan for Open Science](https://www.openscience.nl/en) (NPOS) which has been signed by many organizations including funders (Netherlands Organisation for Scientific Research), universities (Association of Universities in the Netherlands (VSNU)), and libraries (Association of the University Libraries and National Library of the Netherlands (UKB)). The NPOS supported the goal, led by VSNU and UKB to achieve 100% open access for publicly funded research articles by 2020. From 2020 onwards, all academic publications funded with public money must be made open access and be _reusable_.
+- The open movement is well-established and adopted throughout the Netherlands with the Dutch government implementing the [National Plan for Open Science](https://www.openscience.nl/en) (NPOS) which has been signed by many organizations including funders (Netherlands Organisation for Scientific Research), universities (Association of Universities in the Netherlands (VSNU)), and libraries (Association of the University Libraries and National Library of the Netherlands (UKB)). The NPOS supported the goal, led by VSNU and UKB to achieve 100% OA for publicly funded research articles by 2020. Since 2020, all academic publications funded with public money must be made OA and be _reusable_.
 
-#### University Policies, cOAlition S, and Academic Norms
-Most public funders in the Netherlands are part of cOAlition S which requires research funded by them to be published open access with a CC license. As such, most [Dutch university OA policies](https://www.openaccess.nl/en/policies/institutional-policies) recommend using a CC BY license to meet [cOAlition S guidelines](https://www.coalition-s.org/wp-content/uploads/PlanS_Principles_and_Implementation_310519.pdf) and the [Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities](https://openaccess.mpg.de/Berlin-Declaration). With such a strong mandate for open science from the Dutch government and organizations like Open Netherlands, the academic tradition in the Netherlands firmly supports engagement with and the use of CC licenses. 
+### University Policies, cOAlition S, and Academic Norms
+Most public funders in the Netherlands are part of [cOAlition S](https://www.coalition-s.org/), an OA publishing initiative, which requires funded research to be published OA with a CC license. As such, most [Dutch university OA policies](https://www.openaccess.nl/en/policies/institutional-policies) recommend using a CC BY license to meet [cOAlition S guidelines](https://www.coalition-s.org/plan_s_principles/) and the [Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities](https://openaccess.mpg.de/Berlin-Declaration). With such a strong mandate for open science from the Dutch government and organizations like Open Netherlands, the academic tradition in the Netherlands firmly supports engagement with and the use of CC licenses. 
 
+---
 
-### References 
-- "ACI Adam BV v. Stichting de Thuiskopie"(<https://globalfreedomofexpression.columbia.edu/cases/aci-adam-bv-and-others-v-stichting-de-thuiskopie-stichting-onderhandelingen-thuiskopie-vergoeding/>) by Columbia Global Freedom of Expression.   
-- "Copyright"(<https://business.gov.nl/regulations/copyright/>) by the Netherlands Enterprise Agency, RVO. 
-- "Copyright law of the Netherlands"(<https://en.wikipedia.org/wiki/Copyright_law_of_the_Netherlands>) by Wikipedia. CC BY-SA 4.0. 
-- "Frequently asked questions"(<https://creativecommons.nl/faq/>) by Creative Commons Netherlands. CC BY 4.0.
-- "Open Nederland"(<https://www.opennederland.nl/>) by the Open Netherlands Association. CC BY-SA 4.0. 
-- "Netherlands"(<https://wiki.creativecommons.org/wiki/netherlands>) by Creative Commons Netherlands. CC BY 4.0. 
+## References 
+- "_Auteurswet_, 1912" (<https://wetten.overheid.nl/BWBR0001886/2026-01-01/?g=2026-01-01&z=2026-01-01>) by the Government of the Netherlands. 
+- "29 838 Copyright policy No. 72 letter from the state secretary for security and justice" (<https://zoek.officielebekendmakingen.nl/kst-29838-72.html>) (2014) by the Dutch House of Representatives of the States General. 
+- "About this site" (<https://www.openaccess.nl/en/about-contact>) by Openaccess.nl. 
+- "ACI Adam BV and Others v Stichting de Thuiskopie and Stichting Onderhandelingen Thuiskopie vergoeding (Case C‑435/12)" (<https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:62012CJ0435>) (2014) by the Court of Justice of the European Union. 
+- "ACI Adam BV v. Stichting de Thuiskopie" (<https://globalfreedomofexpression.columbia.edu/cases/aci-adam-bv-and-others-v-stichting-de-thuiskopie-stichting-onderhandelingen-thuiskopie-vergoeding/>) by Columbia Global Freedom of Expression.   
+- "Auteurswet" (<https://wetten.overheid.nl/BWBR0001886/2026-01-01/?g=2026-01-01&z=2026-01-01>)
+- "Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities" (<https://openaccess.mpg.de/Berlin-Declaration>) by the Max Planck Society. 
+- "cOAlition S" (<https://www.coalition-s.org/>) by the European Science Foundation. CC BY 4.0. 
+- "Copyright" (<https://business.gov.nl/regulations/copyright/>) by the Netherlands Enterprise Agency, RVO. 
+- "Copyright law of the Netherlands" (<https://en.wikipedia.org/wiki/Copyright_law_of_the_Netherlands>) by Wikipedia. CC BY-SA 4.0.
+- "Creative Commons Netherlands" (<https://creativecommons.nl/>) by Creative Commons Netherlands. CC BY 4.0. 
+- "Frequently asked questions" (<https://creativecommons.nl/faq/>) by Creative Commons Netherlands. CC BY 4.0.
+- "Funder policies" (<https://www.openaccess.nl/en/funder-policies>) by Openaccess.nl.
+- "Institutional policies" (<https://www.openaccess.nl/en/policies/institutional-policies>) by Openaccess.nl.
+- "Intellectual property question and answer" (<https://www.government.nl/topics/intellectual-property/question-and-answer/can-i-use-other-people%E2%80%99s-texts-music-or-photographs>) by the Government of the Netherlands.
+- "List of parties to international copyright agreements" (<https://en.wikipedia.org/wiki/List_of_parties_to_international_copyright_agreements>) by Wikipedia. CC BY-SA 4.0.
+- "Marrakesh VIP Treaty" (<https://en.wikipedia.org/wiki/Marrakesh_VIP_Treaty>) by Wikipedia. CC BY-SA 4.0.
+- "Open Access Publishing" (<https://uba.uva.nl/en/support/research/open-access/open-access.html#2-The-UvAs-open-access-policy>) by the University of Amsterdam Library. 
+- "Open Science NL" (<https://www.openscience.nl/en>) by Open Science NL. 
+- "Open Nederland" (<https://www.opennederland.nl/>) by the Open Netherlands Association. CC BY-SA 4.0. 
+- "Netherlands" (<https://wiki.creativecommons.org/wiki/netherlands>) by Creative Commons Netherlands. CC BY 4.0.
+- "No more downloading from unlawful sources?" (<https://legalblogs.wolterskluwer.com/copyright-blog/no-more-downloading-from-unlawful-sources/>) (2014) by João Pedro Quintais and Alexander de Leeuw (Kluwer Copyright Blog). 
+- "Plan S Principles" (<https://www.coalition-s.org/plan_s_principles/>) by the European Science Foundation. CC BY 4.0.
+- "Private Copying and Downloading from Unlawful Sources" (<https://doi.org/10.1007/s40319-014-0295-7>) by João Pedro Quintais. 
+- "TU Delft Policy and Guidelines of Open Access Publishing"(<https://filelist.tudelft.nl/Library/Themaportalen/Open.tudelft.nl/OA_beleid.pdf>) by TU Delft. CC BY 4.0. 
 
 ---
 
