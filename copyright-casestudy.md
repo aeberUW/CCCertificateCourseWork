@@ -29,10 +29,13 @@ The copyright landscape in the Netherlands is [comparable to that of Canada](htt
 - The Open Netherlands Association, a network of organizations (including Creative Commons Netherlands) and professionals, promotes access to materials that can freely be used, edited, and shared.
 
 ### Creative Commons Adoption 
-The open movement is well-established and adopted throughout the Netherlands with the Dutch government implementing the [National Plan for Open Science](https://www.openscience.nl/en) (NPOS) which has been signed by many organizations including funders (Netherlands Organisation for Scientific Research), universities (Association of Universities in the Netherlands (VSNU)), and libraries (Association of the University Libraries and National Library of the Netherlands (UKB)). The NPOS supported the goal, led by VSNU and UKB to achieve 100% OA for publicly funded research articles by 2020. Since 2020, all academic publications funded with public money must be published OA and be _reusable_.
+The open movement is well-established and adopted throughout NL with the government implementing the [National Plan for Open Science](https://www.openscience.nl/en) (which has been signed by many organizations including federal funders, universities, and libraries. The NPOS supported the goal, [led by Dutch universities and libraries](https://web.archive.org/web/20180620191033/https://www.vsnu.nl/Roadmap-open-access-2018-2020-English/the-road-to-2020.html), to achieve 100% OA for publicly funded scientific publications by 2020. Since 2020, all academic publications funded with public money must be published OA and be _reusable_.
 
 ### University Policies, cOAlition S, and Academic Norms
 Most public funders in the Netherlands are part of [cOAlition S](https://www.coalition-s.org/), an OA publishing initiative, which requires funded research to be published OA with a CC license. As such, most [Dutch university OA policies](https://www.openaccess.nl/en/policies/institutional-policies) recommend using a CC BY license to meet [cOAlition S guidelines](https://www.coalition-s.org/plan_s_principles/) and the [Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities](https://openaccess.mpg.de/Berlin-Declaration). With such a strong mandate for open science from the Dutch government and organizations like Open Netherlands, the academic tradition in the Netherlands firmly supports engagement with and the use of CC licenses. 
+
+### Summary
+Though the goal for 100% OA by 2020 wasn't met, 73% of articles from Dutch universities were [published OA in 2020](https://www.openaccess.nl/en/events/open-access-figures-for-2020-published-a-significant-increase-but-for-100-an-even-firmer), 11% more than 2019. Through a combination of a strong copyright landscape, a government commitment to OA, and an academic culture that strongly value OA, Dutch researchers are well positioned to continue and increase their use of CC licenses. 
 
 ---
 
@@ -54,6 +57,7 @@ Most public funders in the Netherlands are part of [cOAlition S](https://www.coa
 - "Intellectual property question and answer" (<https://www.government.nl/topics/intellectual-property/question-and-answer/can-i-use-other-people%E2%80%99s-texts-music-or-photographs>) by the Government of the Netherlands.
 - "List of parties to international copyright agreements" (<https://en.wikipedia.org/wiki/List_of_parties_to_international_copyright_agreements>) by Wikipedia. CC BY-SA 4.0.
 - "Marrakesh VIP Treaty" (<https://en.wikipedia.org/wiki/Marrakesh_VIP_Treaty>) by Wikipedia. CC BY-SA 4.0.
+- "Open Access figures for 2020 published. A significant increase, but for 100% an even firmer approach is needed" (<https://www.openaccess.nl/en/events/open-access-figures-for-2020-published-a-significant-increase-but-for-100-an-even-firmer>) by Openaccess.nl. 
 - "Open Access Publishing" (<https://uba.uva.nl/en/support/research/open-access/open-access.html#2-The-UvAs-open-access-policy>) by the University of Amsterdam Library. 
 - "Open Science NL" (<https://www.openscience.nl/en>) by Open Science NL. 
 - "Open Nederland" (<https://www.opennederland.nl/>) by the Open Netherlands Association. CC BY-SA 4.0. 
@@ -61,6 +65,7 @@ Most public funders in the Netherlands are part of [cOAlition S](https://www.coa
 - "No more downloading from unlawful sources?" (<https://legalblogs.wolterskluwer.com/copyright-blog/no-more-downloading-from-unlawful-sources/>) (2014) by João Pedro Quintais and Alexander de Leeuw (Kluwer Copyright Blog). 
 - "Plan S Principles" (<https://www.coalition-s.org/plan_s_principles/>) by the European Science Foundation. CC BY 4.0.
 - "Private Copying and Downloading from Unlawful Sources" (<https://doi.org/10.1007/s40319-014-0295-7>) by João Pedro Quintais.
+- "Roadmap open access 2018–2020" (<https://web.archive.org/web/20180308015658/https://www.vsnu.nl/Roadmap-open-access-2018-2020-English/>) by the Association of Universities in the Netherlands. 
 - "So, You Want To Know About Copyright? A Beginner’s FAQ" (<https://aeberuw.github.io/CCCertificateCourseWork/>) by Anneliese Eber. CC BY-SA 4.0. 
 - "TU Delft Policy and Guidelines of Open Access Publishing"(<https://filelist.tudelft.nl/Library/Themaportalen/Open.tudelft.nl/OA_beleid.pdf>) by TU Delft. CC BY 4.0. 
 
