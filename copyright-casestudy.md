@@ -5,7 +5,7 @@ permalink: /international-copyright
 ---
 # Copyright in the Netherlands
 
-Copyright in the Netherlands is governed by the Dutch Copyright Act (DCA) known as [_Auteurswet_](https://wetten.overheid.nl/BWBR0001886/2026-01-01). 
+Copyright in the Netherlands (NL) is governed by the Dutch Copyright Act (DCA) known as [_Auteurswet_](https://wetten.overheid.nl/BWBR0001886/2026-01-01). 
 
 ## Dutch Copyright Landscape 
 ### The Basics
@@ -19,10 +19,10 @@ The Netherlands is a signatory of:
 - [The WIPO Performances and Phonograms Treaty](https://en.wikipedia.org/wiki/WIPO_Performances_and_Phonograms_Treaty)
 - [The Agreement on Trade-Related Aspects of Intellectual Property Rights](https://en.wikipedia.org/wiki/TRIPS_Agreement)
 
-Note: As a member of the European Union (EU), all EU copyright regulations and treaties apply to the Netherlands. Notably, the Netherlands is not a signatory of the [Marrakesh Treaty](https://en.wikipedia.org/wiki/Marrakesh_VIP_Treaty), though the EU is a signatory which requires the Netherlands to abide by the treaty, despite not being a signatory themselves.
+Note: As a member of the European Union (EU), all EU copyright regulations and treaties apply to NL. Notably, the Netherlands is not a signatory of the [Marrakesh Treaty](https://en.wikipedia.org/wiki/Marrakesh_VIP_Treaty); however, as an  the EU is a signatory which requires the Netherlands to abide by the treaty, despite not being a signatory themselves.
 
 ### Summary
-Overall, the copyright landscape in the Netherlands is comparable to that of Canada with similar exceptions to copyright ([_Auteurswet_ Articles 15–25a](https://wetten.overheid.nl/BWBR0001886/2026-01-01/?g=2026-01-01&z=2026-01-01#HoofdstukI_Paragraaf6)) as are seen elsewhere. Interestingly, copyright limitations laid out in _Auteurswet_ seem to be more permissive than copyright elsewhere in the world; however, in a [2014 court case](https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:62012CJ0435), the Court of Justice of the European Union ruled that making [personal copies made from unlawful sources is illegal](https://legalblogs.wolterskluwer.com/copyright-blog/no-more-downloading-from-unlawful-sources/), though seemingly permissible per [Article 16](https://wetten.overheid.nl/BWBR0001886/2026-01-01/?g=2026-01-01&z=2026-01-01#HoofdstukI_Paragraaf6_Artikel16) which has not been changed since the ruling. Though somewhat [unique in its approach to piracy](https://doi.org/10.1007/s40319-014-0295-7), public norms and approaches to copyright in the Netherlands are largely shaped by the country's status as an EU member and a signatory of major international treaties.
+The copyright landscape in the Netherlands is comparable to that of Canada with similar exceptions to copyright ([_Auteurswet_ Articles 15–25a](https://wetten.overheid.nl/BWBR0001886/2026-01-01/?g=2026-01-01&z=2026-01-01#HoofdstukI_Paragraaf6)) as are seen elsewhere. Interestingly, _Auteurswet_ copyright exceptions seem to be more permissive than those elsewhere in the world, particularly for personal copies. However, in a [2014 court case](https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:62012CJ0435), the Court of Justice of the European Union ruled that creating [personal copies derived from unlawful sources is illegal](https://legalblogs.wolterskluwer.com/copyright-blog/no-more-downloading-from-unlawful-sources/), though [_Auteurswet_](https://wetten.overheid.nl/BWBR0001886/2026-01-01/?g=2026-01-01&z=2026-01-01#HoofdstukI_Paragraaf6_Artikel16) and [copyright acts from other EU members](https://doi.org/10.1007/s40319-014-0295-7) do not expressly differentiate personal copies based on the source. Regardless, public norms and approaches to copyright in NL are influenced oveall by their status as an EU member and a signatory of major international treaties.
 
 ## Creative Commons in the Netherlands
 - The Netherlands have their own Creative Commons chapter which is supported by the [Open Netherlands Association](https://www.opennederland.nl/) and part of the international CC community.
